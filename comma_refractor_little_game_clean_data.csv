@@ -1,500 +1,500 @@
 Index,Estimated owners,Price,Supported languages,Windows,Mac,Linux,Required age,Categories,Operative Systems Support
-0,('0';'20000'),19.99,['English'],True,False,False,0,Single-player,Multi-player,Steam Achievements,Partial Controller Support,W
-1,('0';'20000'),0.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Traditional Chinese'],True,True,False,0,Single-player,Steam Achievements,Full controller support,Steam Leaderboards,Remote Play on Phone,Remote Play on Tablet,Remote Play on TV,WM
+0,('0';'20000'),19.99,['English'],True,False,False,0,Single-player;Multi-player;Steam Achievements;Partial Controller Support,W
+1,('0';'20000'),0.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Traditional Chinese'],True,True,False,0,Single-player;Steam Achievements;Full controller support;Steam Leaderboards;Remote Play on Phone;Remote Play on Tablet;Remote Play on TV,WM
 2,('0';'20000'),4.99,['English';'Portuguese - Brazil'],True,False,False,0,Single-player,W
-3,('0';'20000'),5.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Portuguese';'Russian';'Simplified Chinese';'Traditional Chinese'],True,True,True,0,Single-player,Full controller support,WLM
-4,('0';'20000'),0.0,['English';'Spanish - Spain'],True,True,False,0,Single-player,Steam Achievements,WM
-5,('50000';'100000'),0.0,['English'],True,False,False,0,Single-player,Multi-player,MMO,PvP,Online PvP,Co-op,Online Co-op,In-App Purchases,W
-6,('0';'20000'),10.99,['English';'Russian';'Danish'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,W
-7,('0';'20000'),9.99,['English';'German'],True,False,False,0,Single-player,Steam Cloud,W
-8,('0';'20000'),14.99,['English';'French';'Italian';'German';'Spanish - Spain';'Russian';'Japanese';'Simplified Chinese';'Traditional Chinese';'Korean'],True,False,False,0,Single-player,Steam Achievements,Full controller support,W
-9,('50000';'100000'),3.99,['English';'Polish';'French';'Italian';'German';'Spanish - Spain';'Portuguese';'Russian';'Japanese'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,WLM
-10,('20000';'50000'),23.99,['English';'French';'German';'Polish';'Russian'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Remote Play on Tablet,W
-11,('50000';'100000'),0.0,['English'],True,True,False,0,Single-player,Multi-player,Shared/Split Screen,Cross-Platform Multiplayer,In-App Purchases,Remote Play Together,WM
-12,('0';'20000'),1.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-13,('20000';'50000'),2.99,['English'],True,True,True,0,Single-player,Steam Achievements,Steam Leaderboards,WLM
-14,('0';'20000'),12.99,['English';'Korean'],True,False,False,0,Single-player,Partial Controller Support,Steam Cloud,W
-15,('200000';'500000'),9.99,['English';'French';'German';'Italian';'Japanese';'Spanish - Spain'],True,False,False,0,Single-player,Multi-player,Co-op,Steam Achievements,Partial Controller Support,Stats,Steam Leaderboards,W
+3,('0';'20000'),5.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Portuguese';'Russian';'Simplified Chinese';'Traditional Chinese'],True,True,True,0,Single-player;Full controller support,WLM
+4,('0';'20000'),0.0,['English';'Spanish - Spain'],True,True,False,0,Single-player;Steam Achievements,WM
+5,('50000';'100000'),0.0,['English'],True,False,False,0,Single-player;Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op;In-App Purchases,W
+6,('0';'20000'),10.99,['English';'Russian';'Danish'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud,W
+7,('0';'20000'),9.99,['English';'German'],True,False,False,0,Single-player;Steam Cloud,W
+8,('0';'20000'),14.99,['English';'French';'Italian';'German';'Spanish - Spain';'Russian';'Japanese';'Simplified Chinese';'Traditional Chinese';'Korean'],True,False,False,0,Single-player;Steam Achievements;Full controller support,W
+9,('50000';'100000'),3.99,['English';'Polish';'French';'Italian';'German';'Spanish - Spain';'Portuguese';'Russian';'Japanese'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud,WLM
+10,('20000';'50000'),23.99,['English';'French';'German';'Polish';'Russian'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud;Remote Play on Tablet,W
+11,('50000';'100000'),0.0,['English'],True,True,False,0,Single-player;Multi-player;Shared/Split Screen;Cross-Platform Multiplayer;In-App Purchases;Remote Play Together,WM
+12,('0';'20000'),1.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+13,('20000';'50000'),2.99,['English'],True,True,True,0,Single-player;Steam Achievements;Steam Leaderboards,WLM
+14,('0';'20000'),12.99,['English';'Korean'],True,False,False,0,Single-player;Partial Controller Support;Steam Cloud,W
+15,('200000';'500000'),9.99,['English';'French';'German';'Italian';'Japanese';'Spanish - Spain'],True,False,False,0,Single-player;Multi-player;Co-op;Steam Achievements;Partial Controller Support;Stats;Steam Leaderboards,W
 16,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,W
-17,('100000';'200000'),7.99,['English';'French';'German';'Spanish - Spain';'Russian';'Turkish';'Czech';'Portuguese - Brazil';'Hungarian';'Polish';'Italian';'Dutch';'Ukrainian';'Danish';'Simplified Chinese'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Remote Play on Phone,Remote Play on Tablet,WLM
-18,('0';'20000'),9.59,['English';'Traditional Chinese'],True,False,False,0,Single-player,Steam Trading Cards,W
+17,('100000';'200000'),7.99,['English';'French';'German';'Spanish - Spain';'Russian';'Turkish';'Czech';'Portuguese - Brazil';'Hungarian';'Polish';'Italian';'Dutch';'Ukrainian';'Danish';'Simplified Chinese'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud;Remote Play on Phone;Remote Play on Tablet,WLM
+18,('0';'20000'),9.59,['English';'Traditional Chinese'],True,False,False,0,Single-player;Steam Trading Cards,W
 19,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,W
-20,('20000';'50000'),17.99,['English';'Russian';'French';'German'],True,True,True,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Steam Cloud,Remote Play Together,WLM
-21,('20000';'50000'),2.99,['English'],True,False,False,0,Single-player,Steam Trading Cards,W
-22,('100000';'200000'),37.49,['English';'German';'French'],True,True,True,0,Single-player,Partial Controller Support,WLM
+20,('20000';'50000'),17.99,['English';'Russian';'French';'German'],True,True,True,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Cloud;Remote Play Together,WLM
+21,('20000';'50000'),2.99,['English'],True,False,False,0,Single-player;Steam Trading Cards,W
+22,('100000';'200000'),37.49,['English';'German';'French'],True,True,True,0,Single-player;Partial Controller Support,WLM
 23,('20000';'50000'),2.99,['English'],True,False,False,0,Single-player,W
-24,('20000';'50000'),5.99,['English'],True,False,False,0,Single-player,Multi-player,MMO,PvP,Online PvP,Co-op,Online Co-op,Partial Controller Support,W
-25,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-26,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player,Steam Achievements,Partial Controller Support,W
-27,('0';'20000'),2.99,['English';'Italian';'Portuguese - Brazil';'Spanish - Latin America';'Spanish - Spain';'Portuguese'],True,True,False,0,Single-player,Steam Achievements,Steam Leaderboards,WM
-28,('0';'20000'),1.99,['English';'Portuguese - Brazil'],True,False,False,0,Single-player,Full controller support,W
-29,('0';'20000'),13.99,['Simplified Chinese';'English';'Portuguese - Brazil'],True,True,False,0,Single-player,Steam Achievements,WM
-30,('0';'20000'),11.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-32,('0';'20000'),2.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-33,('20000';'50000'),0.99,['English'],True,True,True,0,Single-player,Steam Trading Cards,Partial Controller Support,WLM
-34,('100000';'200000'),0.99,['English'],True,False,False,0,Single-player,Multi-player,Co-op,Steam Achievements,Partial Controller Support,Steam Cloud,Stats,Steam Leaderboards,W
+24,('20000';'50000'),5.99,['English'],True,False,False,0,Single-player;Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op;Partial Controller Support,W
+25,('0';'20000'),9.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+26,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player;Steam Achievements;Partial Controller Support,W
+27,('0';'20000'),2.99,['English';'Italian';'Portuguese - Brazil';'Spanish - Latin America';'Spanish - Spain';'Portuguese'],True,True,False,0,Single-player;Steam Achievements;Steam Leaderboards,WM
+28,('0';'20000'),1.99,['English';'Portuguese - Brazil'],True,False,False,0,Single-player;Full controller support,W
+29,('0';'20000'),13.99,['Simplified Chinese';'English';'Portuguese - Brazil'],True,True,False,0,Single-player;Steam Achievements,WM
+30,('0';'20000'),11.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+32,('0';'20000'),2.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+33,('20000';'50000'),0.99,['English'],True,True,True,0,Single-player;Steam Trading Cards;Partial Controller Support,WLM
+34,('100000';'200000'),0.99,['English'],True,False,False,0,Single-player;Multi-player;Co-op;Steam Achievements;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards,W
 35,('0';'20000'),1.99,['English'],True,False,False,0,Single-player,W
 36,('0';'20000'),1.99,['English'],True,True,True,0,Single-player,WLM
-37,('0';'20000'),7.99,['English';'French';'German';'Spanish - Spain';'Russian';'Japanese';'Traditional Chinese';'Portuguese';'Portuguese - Brazil';'Spanish - Latin America';'Korean';'Simplified Chinese'],True,False,False,0,Single-player,Steam Cloud,W
+37,('0';'20000'),7.99,['English';'French';'German';'Spanish - Spain';'Russian';'Japanese';'Traditional Chinese';'Portuguese';'Portuguese - Brazil';'Spanish - Latin America';'Korean';'Simplified Chinese'],True,False,False,0,Single-player;Steam Cloud,W
 38,('0';'20000'),1.99,['English'],True,False,False,0,Single-player,W
-39,('200000';'500000'),2.49,['English'],True,True,True,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Trading Cards,Captions available,Steam Workshop,Partial Controller Support,Remote Play Together,WLM
-40,('50000';'100000'),11.99,['English'],True,False,False,0,Multi-player,PvP,Online PvP,Co-op,Online Co-op,Cross-Platform Multiplayer,W
-41,('50000';'100000'),0.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-42,('100000';'200000'),19.99,['English';'German';'Polish';'French';'Russian'],True,False,True,0,Single-player,Multi-player,Co-op,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards,WL
+39,('200000';'500000'),2.49,['English'],True,True,True,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Trading Cards;Captions available;Steam Workshop;Partial Controller Support;Remote Play Together,WLM
+40,('50000';'100000'),11.99,['English'],True,False,False,0,Multi-player;PvP;Online PvP;Co-op;Online Co-op;Cross-Platform Multiplayer,W
+41,('50000';'100000'),0.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+42,('100000';'200000'),19.99,['English';'German';'Polish';'French';'Russian'],True,False,True,0,Single-player;Multi-player;Co-op;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Steam Leaderboards,WL
 43,('0';'20000'),14.99,['English'],True,True,True,0,Single-player,WLM
-44,('50000';'100000'),3.99,['English';'French';'German';'Spanish - Spain';'Italian';'Japanese';'Korean';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Traditional Chinese'],True,True,True,0,Single-player,Steam Achievements,Full controller support,WLM
-45,('50000';'100000'),0.0,['English'],True,True,False,0,Multi-player,MMO,PvP,Online PvP,Co-op,Online Co-op,Cross-Platform Multiplayer,Steam Achievements,In-App Purchases,WM
+44,('50000';'100000'),3.99,['English';'French';'German';'Spanish - Spain';'Italian';'Japanese';'Korean';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Traditional Chinese'],True,True,True,0,Single-player;Steam Achievements;Full controller support,WLM
+45,('50000';'100000'),0.0,['English'],True,True,False,0,Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;In-App Purchases,WM
 46,('0';'20000'),1.99,['English'],True,False,False,0,Single-player,W
-47,('2000000';'5000000'),59.99,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Czech';'Dutch';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Traditional Chinese'],True,False,False,17,Single-player,Multi-player,Co-op,Online Co-op,Steam Trading Cards,Captions available,In-App Purchases,Partial Controller Support,Includes level editor,W
+47,('2000000';'5000000'),59.99,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Czech';'Dutch';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Traditional Chinese'],True,False,False,17,Single-player;Multi-player;Co-op;Online Co-op;Steam Trading Cards;Captions available;In-App Purchases;Partial Controller Support;Includes level editor,W
 48,('20000';'50000'),0.55,['English'],True,False,False,0,Single-player,W
-49,('0';'20000'),14.99,['English';'Japanese';'Simplified Chinese';'Korean'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,W
+49,('0';'20000'),14.99,['English';'Japanese';'Simplified Chinese';'Korean'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud,W
 50,('20000';'50000'),9.99,['English'],True,False,False,0,Single-player,W
-51,('0';'20000'),4.99,['English'],True,False,True,0,Single-player,Steam Achievements,WL
+51,('0';'20000'),4.99,['English'],True,False,True,0,Single-player;Steam Achievements,WL
 52,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,W
-53,('0';'0'),0.0,['English';'French';'German';'Spanish - Spain';'Japanese';'Korean';'Portuguese';'Russian';'Simplified Chinese';'Turkish';'Italian';'Spanish - Latin America'],True,False,False,0,Single-player,Full controller support,W
-54,('0';'20000'),5.99,['English'],True,False,False,0,Single-player,Multi-player,Co-op,Online Co-op,Steam Achievements,W
-55,('0';'20000'),0.99,['English'],True,False,False,0,Multi-player,PvP,Online PvP,LAN PvP,Co-op,Online Co-op,LAN Co-op,W
-56,('20000';'50000'),0.99,['English';'Russian';'Portuguese';'Portuguese - Brazil';'Ukrainian'],True,True,True,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,WLM
-57,('2000000';'5000000'),59.99,['English';'French';'Italian';'German';'Spanish - Spain';'Czech';'Hungarian';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Spanish - Latin America';'Traditional Chinese';'Turkish'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Co-op,Online Co-op,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,W
+53,('0';'0'),0.0,['English';'French';'German';'Spanish - Spain';'Japanese';'Korean';'Portuguese';'Russian';'Simplified Chinese';'Turkish';'Italian';'Spanish - Latin America'],True,False,False,0,Single-player;Full controller support,W
+54,('0';'20000'),5.99,['English'],True,False,False,0,Single-player;Multi-player;Co-op;Online Co-op;Steam Achievements,W
+55,('0';'20000'),0.99,['English'],True,False,False,0,Multi-player;PvP;Online PvP;LAN PvP;Co-op;Online Co-op;LAN Co-op,W
+56,('20000';'50000'),0.99,['English';'Russian';'Portuguese';'Portuguese - Brazil';'Ukrainian'],True,True,True,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards,WLM
+57,('2000000';'5000000'),59.99,['English';'French';'Italian';'German';'Spanish - Spain';'Czech';'Hungarian';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Spanish - Latin America';'Traditional Chinese';'Turkish'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Co-op;Online Co-op;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud,W
 58,('0';'20000'),3.99,['English'],True,False,False,0,Single-player,W
 59,('0';'20000'),3.99,['Simplified Chinese'],True,False,False,0,Single-player,W
-60,('0';'20000'),4.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,W
+60,('0';'20000'),4.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Cloud,W
 61,('20000';'50000'),0.99,['English'],True,False,False,0,Single-player,W
-62,('200000';'500000'),2.99,['English'],True,False,False,0,Single-player,Steam Trading Cards,W
+62,('200000';'500000'),2.99,['English'],True,False,False,0,Single-player;Steam Trading Cards,W
 63,('0';'20000'),9.99,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Czech';'Danish';'Dutch';'Hungarian';'Japanese';'Korean';'Norwegian';'Polish';'Portuguese';'Romanian';'Russian';'Swedish';'Thai';'Turkish';'Vietnamese';'Simplified Chinese'],True,True,False,0,Single-player,WM
-64,('20000';'50000'),19.99,['English';'Japanese'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Partial Controller Support,W
+64,('20000';'50000'),19.99,['English';'Japanese'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Partial Controller Support,W
 65,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,W
 66,('500000';'1000000'),3.49,['English'],True,False,False,17,Single-player,W
 67,('20000';'50000'),6.99,['English';'Japanese';'Korean';'Simplified Chinese'],True,False,False,0,Single-player,W
-68,('0';'20000'),7.49,['English'],True,True,True,0,Single-player,Steam Achievements,WLM
-69,('0';'20000'),29.99,['English';'French';'Spanish - Spain';'Simplified Chinese';'Japanese';'Italian'],True,True,False,0,Single-player,Multi-player,Cross-Platform Multiplayer,WM
-70,('0';'20000'),1.99,['English'],True,False,False,0,Multi-player,PvP,Shared/Split Screen PvP,Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Remote Play Together,W
-71,('500000';'1000000'),2.99,['English';'Russian';'Italian';'German';'Traditional Chinese';'Portuguese - Brazil'],True,True,True,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,WLM
+68,('0';'20000'),7.49,['English'],True,True,True,0,Single-player;Steam Achievements,WLM
+69,('0';'20000'),29.99,['English';'French';'Spanish - Spain';'Simplified Chinese';'Japanese';'Italian'],True,True,False,0,Single-player;Multi-player;Cross-Platform Multiplayer,WM
+70,('0';'20000'),1.99,['English'],True,False,False,0,Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Remote Play Together,W
+71,('500000';'1000000'),2.99,['English';'Russian';'Italian';'German';'Traditional Chinese';'Portuguese - Brazil'],True,True,True,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards,WLM
 72,('0';'20000'),5.99,['English'],True,False,False,0,Single-player,W
-73,('0';'20000'),19.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,W
-74,('0';'20000'),4.99,['English';'French'],True,False,True,0,Single-player,Steam Achievements,Partial Controller Support,Steam Cloud,WL
-75,('0';'20000'),4.24,['English'],True,False,False,0,Multi-player,PvP,Online PvP,LAN PvP,Co-op,Online Co-op,LAN Co-op,Full controller support,Steam Leaderboards,W
-76,('0';'20000'),0.0,['English'],True,True,False,0,Single-player,Steam Achievements,Partial Controller Support,Steam Leaderboards,WM
+73,('0';'20000'),19.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support,W
+74,('0';'20000'),4.99,['English';'French'],True,False,True,0,Single-player;Steam Achievements;Partial Controller Support;Steam Cloud,WL
+75,('0';'20000'),4.24,['English'],True,False,False,0,Multi-player;PvP;Online PvP;LAN PvP;Co-op;Online Co-op;LAN Co-op;Full controller support;Steam Leaderboards,W
+76,('0';'20000'),0.0,['English'],True,True,False,0,Single-player;Steam Achievements;Partial Controller Support;Steam Leaderboards,WM
 77,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,W
 78,('0';'20000'),0.49,['English'],True,False,False,0,Single-player,W
-79,('0';'20000'),19.99,['English';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player,Partial Controller Support,Steam Cloud,W
-80,('20000';'50000'),14.99,['English';'Simplified Chinese'],True,False,True,0,Single-player,Multi-player,Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Workshop,Steam Cloud,Stats,Steam Leaderboards,Includes level editor,Remote Play Together,WL
+79,('0';'20000'),19.99,['English';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player;Partial Controller Support;Steam Cloud,W
+80,('20000';'50000'),14.99,['English';'Simplified Chinese'],True,False,True,0,Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards;Includes level editor;Remote Play Together,WL
 81,('20000';'50000'),3.99,['English'],True,False,False,0,Single-player,W
 82,('0';'20000'),24.99,['Japanese'],True,False,False,0,Single-player,W
-83,('0';'20000'),3.99,['English'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Steam Achievements,W
+83,('0';'20000'),3.99,['English'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Steam Achievements,W
 84,('0';'20000'),4.99,['English';'French';'Italian';'German';'Spanish - Spain';'Dutch'],True,False,False,0,Single-player,W
-85,('0';'20000'),4.99,['English'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Partial Controller Support,Remote Play Together,W
+85,('0';'20000'),4.99,['English'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Partial Controller Support;Remote Play Together,W
 86,('0';'20000'),0.49,['English'],True,False,False,0,Single-player,W
 87,('0';'20000'),14.99,['English';'Simplified Chinese'],True,False,False,0,Single-player,W
-88,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,Multi-player,Co-op,Online Co-op,LAN Co-op,Steam Achievements,W
-89,('20000';'50000'),14.99,['English';'French'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Stats,W
-90,('20000';'50000'),4.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Simplified Chinese'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Achievements,Full controller support,Steam Cloud,Steam Leaderboards,Remote Play Together,W
+88,('0';'20000'),0.0,['English'],True,False,False,0,Single-player;Multi-player;Co-op;Online Co-op;LAN Co-op;Steam Achievements,W
+89,('20000';'50000'),14.99,['English';'French'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Stats,W
+90,('20000';'50000'),4.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Simplified Chinese'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards;Remote Play Together,W
 91,('0';'20000'),1.19,['English'],True,False,False,18,Single-player,W
-92,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,Multi-player,MMO,PvP,Online PvP,Co-op,Online Co-op,W
-93,('200000';'500000'),23.99,['English';'French';'German';'Spanish - Spain';'Portuguese - Brazil';'Spanish - Latin America'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,LAN PvP,Full controller support,W
+92,('0';'20000'),0.0,['English'],True,False,False,0,Single-player;Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op,W
+93,('200000';'500000'),23.99,['English';'French';'German';'Spanish - Spain';'Portuguese - Brazil';'Spanish - Latin America'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;LAN PvP;Full controller support,W
 94,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,W
 95,('0';'0'),0.0,['English';'French';'Italian';'German';'Spanish - Spain';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese'],True,False,False,0,Single-player,W
-96,('2000000';'5000000'),24.99,['English';'Simplified Chinese';'Korean';'Russian'],True,True,True,0,Single-player,Steam Trading Cards,WLM
+96,('2000000';'5000000'),24.99,['English';'Simplified Chinese';'Korean';'Russian'],True,True,True,0,Single-player;Steam Trading Cards,WLM
 97,('0';'20000'),6.99,['English'],True,False,False,0,Single-player,W
-98,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Leaderboards,W
-99,('0';'20000'),13.99,['English';'French';'Simplified Chinese';'Traditional Chinese';'Japanese';'Korean'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,W
-100,('20000';'50000'),9.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,W
-101,('20000';'50000'),0.99,['English';'Portuguese - Brazil'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,Steam Leaderboards,W
-102,('0';'20000'),14.99,['English'],True,False,False,0,Single-player,Multi-player,Shared/Split Screen,Partial Controller Support,Remote Play Together,W
-103,('0';'20000'),0.49,['English'],True,True,True,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,WLM
-104,('0';'20000'),3.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-106,('0';'0'),5.39,['English';'Spanish - Spain';'French';'Italian';'German';'Simplified Chinese';'Traditional Chinese';'Korean';'Japanese';'Portuguese';'Russian'],True,False,False,0,Single-player,Full controller support,W
-107,('0';'20000'),9.99,['English';'French';'Italian';'German';'Spanish - Spain'],True,False,False,10,Single-player,Steam Achievements,Full controller support,Remote Play on TV,W
-108,('50000';'100000'),0.0,['English'],True,False,False,0,Multi-player,MMO,PvP,Online PvP,W
-109,('0';'20000'),1.99,['English';'French';'German';'Romanian';'Russian';'Simplified Chinese';'Italian';'Spanish - Spain'],True,True,True,0,Single-player,Steam Achievements,Steam Workshop,Steam Cloud,Stats,Steam Leaderboards,Includes level editor,WLM
+98,('0';'20000'),9.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Leaderboards,W
+99,('0';'20000'),13.99,['English';'French';'Simplified Chinese';'Traditional Chinese';'Japanese';'Korean'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud,W
+100,('20000';'50000'),9.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Cloud,W
+101,('20000';'50000'),0.99,['English';'Portuguese - Brazil'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards,W
+102,('0';'20000'),14.99,['English'],True,False,False,0,Single-player;Multi-player;Shared/Split Screen;Partial Controller Support;Remote Play Together,W
+103,('0';'20000'),0.49,['English'],True,True,True,0,Single-player;Steam Achievements;Full controller support;Steam Cloud,WLM
+104,('0';'20000'),3.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+106,('0';'0'),5.39,['English';'Spanish - Spain';'French';'Italian';'German';'Simplified Chinese';'Traditional Chinese';'Korean';'Japanese';'Portuguese';'Russian'],True,False,False,0,Single-player;Full controller support,W
+107,('0';'20000'),9.99,['English';'French';'Italian';'German';'Spanish - Spain'],True,False,False,10,Single-player;Steam Achievements;Full controller support;Remote Play on TV,W
+108,('50000';'100000'),0.0,['English'],True,False,False,0,Multi-player;MMO;PvP;Online PvP,W
+109,('0';'20000'),1.99,['English';'French';'German';'Romanian';'Russian';'Simplified Chinese';'Italian';'Spanish - Spain'],True,True,True,0,Single-player;Steam Achievements;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards;Includes level editor,WLM
 110,('500000';'1000000'),0.0,['English'],True,False,False,0,Single-player,W
-111,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,Steam Achievements,Partial Controller Support,W
-112,('500000';'1000000'),19.99,['English'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards,Remote Play on Phone,Remote Play on Tablet,Remote Play on TV,Remote Play Together,W
+111,('0';'20000'),0.99,['English'],True,False,False,0,Single-player;Steam Achievements;Partial Controller Support,W
+112,('500000';'1000000'),19.99,['English'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards;Remote Play on Phone;Remote Play on Tablet;Remote Play on TV;Remote Play Together,W
 113,('200000';'500000'),2.99,['English'],True,False,False,0,Single-player,W
 114,('0';'20000'),19.99,['English'],True,False,False,0,Single-player,W
-115,('0';'20000'),3.99,['English';'Russian'],True,False,False,0,Single-player,Steam Achievements,W
-116,('1000000';'2000000'),44.99,['English';'French';'Italian';'German';'Spanish - Spain';'Portuguese - Brazil';'Korean';'Japanese';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Shared/Split Screen PvP,Co-op,Online Co-op,Shared/Split Screen Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Remote Play Together,W
-117,('100000';'200000'),9.99,['English';'French';'German';'Spanish - Spain';'Polish';'Portuguese - Brazil';'Russian'],True,True,True,0,Single-player,Multi-player,Co-op,Shared/Split Screen,Steam Achievements,Steam Trading Cards,Captions available,Partial Controller Support,Steam Cloud,Steam Leaderboards,Remote Play Together,WLM
-118,('0';'20000'),7.99,['English';'French';'German';'Spanish - Spain';'Dutch';'Portuguese - Brazil';'Turkish';'Russian'],True,True,True,0,Single-player,Steam Achievements,WLM
-119,('50000';'100000'),16.24,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Steam Achievements,W
-120,('0';'20000'),1.99,['English';'Russian'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,WLM
-121,('200000';'500000'),0.99,['English';'French';'German';'Spanish - Spain';'Russian'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderboards,Remote Play on TV,W
-122,('0';'20000'),0.99,['Simplified Chinese'],True,True,False,0,Single-player,Steam Achievements,Captions available,WM
-123,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Stats,Steam Leaderboards,W
+115,('0';'20000'),3.99,['English';'Russian'],True,False,False,0,Single-player;Steam Achievements,W
+116,('1000000';'2000000'),44.99,['English';'French';'Italian';'German';'Spanish - Spain';'Portuguese - Brazil';'Korean';'Japanese';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Co-op;Online Co-op;Shared/Split Screen Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Remote Play Together,W
+117,('100000';'200000'),9.99,['English';'French';'German';'Spanish - Spain';'Polish';'Portuguese - Brazil';'Russian'],True,True,True,0,Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Steam Trading Cards;Captions available;Partial Controller Support;Steam Cloud;Steam Leaderboards;Remote Play Together,WLM
+118,('0';'20000'),7.99,['English';'French';'German';'Spanish - Spain';'Dutch';'Portuguese - Brazil';'Turkish';'Russian'],True,True,True,0,Single-player;Steam Achievements,WLM
+119,('50000';'100000'),16.24,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Steam Achievements,W
+120,('0';'20000'),1.99,['English';'Russian'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards,WLM
+121,('200000';'500000'),0.99,['English';'French';'German';'Spanish - Spain';'Russian'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Leaderboards;Remote Play on TV,W
+122,('0';'20000'),0.99,['Simplified Chinese'],True,True,False,0,Single-player;Steam Achievements;Captions available,WM
+123,('0';'20000'),9.99,['English'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Stats;Steam Leaderboards,W
 124,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,W
 125,('20000';'50000'),0.49,['English'],True,False,False,0,Single-player,W
-126,('0';'20000'),9.99,['English'],True,False,True,0,Single-player,Steam Achievements,WL
-127,('1000000';'2000000'),3.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Polish';'Russian';'Simplified Chinese';'Spanish - Latin America';'Turkish';'Thai';'Portuguese';'Czech';'Dutch';'Finnish';'Norwegian';'Portuguese - Brazil';'Romanian';'Hungarian'],True,True,False,0,Single-player,Multi-player,Co-op,Online Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,WM
-128,('0';'20000'),29.99,['English'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Achievements,Partial Controller Support,Remote Play Together,W
-129,('0';'20000'),5.99,['Simplified Chinese';'English';'Traditional Chinese'],True,False,False,0,Single-player,Steam Achievements,Partial Controller Support,Steam Cloud,W
-130,('0';'20000'),0.99,['English';'French';'Italian';'German';'Spanish - Spain';'Simplified Chinese';'Japanese';'Portuguese - Brazil';'Russian'],True,True,True,0,Single-player,Steam Achievements,Partial Controller Support,WLM
-131,('0';'20000'),9.99,['English'],True,True,True,0,Single-player,Steam Achievements,Captions available,Steam Cloud,WLM
-132,('0';'20000'),7.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Portuguese - Brazil';'Russian';'Simplified Chinese'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Remote Play Together,W
-133,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,W
-134,('0';'20000'),1.99,['English'],True,True,True,0,Single-player,Steam Trading Cards,Partial Controller Support,WLM
-135,('0';'20000'),2.99,['English'],True,False,False,0,Single-player,Full controller support,Steam Cloud,W
-136,('1000000';'2000000'),9.99,['English';'French';'German';'Italian';'Spanish - Spain'],True,True,False,17,Single-player,Multi-player,WM
-137,('0';'20000'),1.99,['English'],True,True,False,0,Single-player,Steam Leaderboards,WM
-138,('20000';'50000'),4.99,['English';'French';'German';'Italian';'Spanish - Spain'],True,False,False,0,Single-player,Multi-player,Co-op,Shared/Split Screen,Full controller support,Remote Play on TV,Remote Play Together,W
-139,('0';'20000'),5.99,['English';'French'],True,False,False,0,Single-player,Steam Trading Cards,W
-140,('0';'20000'),10.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-141,('20000';'50000'),0.49,['English';'Russian'],True,True,False,0,Single-player,Steam Trading Cards,WM
+126,('0';'20000'),9.99,['English'],True,False,True,0,Single-player;Steam Achievements,WL
+127,('1000000';'2000000'),3.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Polish';'Russian';'Simplified Chinese';'Spanish - Latin America';'Turkish';'Thai';'Portuguese';'Czech';'Dutch';'Finnish';'Norwegian';'Portuguese - Brazil';'Romanian';'Hungarian'],True,True,False,0,Single-player;Multi-player;Co-op;Online Co-op;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud,WM
+128,('0';'20000'),29.99,['English'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Partial Controller Support;Remote Play Together,W
+129,('0';'20000'),5.99,['Simplified Chinese';'English';'Traditional Chinese'],True,False,False,0,Single-player;Steam Achievements;Partial Controller Support;Steam Cloud,W
+130,('0';'20000'),0.99,['English';'French';'Italian';'German';'Spanish - Spain';'Simplified Chinese';'Japanese';'Portuguese - Brazil';'Russian'],True,True,True,0,Single-player;Steam Achievements;Partial Controller Support,WLM
+131,('0';'20000'),9.99,['English'],True,True,True,0,Single-player;Steam Achievements;Captions available;Steam Cloud,WLM
+132,('0';'20000'),7.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Portuguese - Brazil';'Russian';'Simplified Chinese'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Remote Play Together,W
+133,('0';'20000'),9.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support,W
+134,('0';'20000'),1.99,['English'],True,True,True,0,Single-player;Steam Trading Cards;Partial Controller Support,WLM
+135,('0';'20000'),2.99,['English'],True,False,False,0,Single-player;Full controller support;Steam Cloud,W
+136,('1000000';'2000000'),9.99,['English';'French';'German';'Italian';'Spanish - Spain'],True,True,False,17,Single-player;Multi-player,WM
+137,('0';'20000'),1.99,['English'],True,True,False,0,Single-player;Steam Leaderboards,WM
+138,('20000';'50000'),4.99,['English';'French';'German';'Italian';'Spanish - Spain'],True,False,False,0,Single-player;Multi-player;Co-op;Shared/Split Screen;Full controller support;Remote Play on TV;Remote Play Together,W
+139,('0';'20000'),5.99,['English';'French'],True,False,False,0,Single-player;Steam Trading Cards,W
+140,('0';'20000'),10.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+141,('20000';'50000'),0.49,['English';'Russian'],True,True,False,0,Single-player;Steam Trading Cards,WM
 142,('100000';'200000'),9.99,['English'],True,True,True,0,Single-player,WLM
-143,('0';'20000'),4.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-144,('0';'20000'),19.99,['English';'French';'Italian';'German';'Spanish - Spain'],True,False,False,0,Single-player,Multi-player,Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Cloud,Stats,Steam Leaderboards,Remote Play Together,W
-146,('0';'20000'),9.99,['English';'Simplified Chinese';'Traditional Chinese';'Japanese'],True,False,False,0,Single-player,Partial Controller Support,W
+143,('0';'20000'),4.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+144,('0';'20000'),19.99,['English';'French';'Italian';'German';'Spanish - Spain'],True,False,False,0,Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Cloud;Stats;Steam Leaderboards;Remote Play Together,W
+146,('0';'20000'),9.99,['English';'Simplified Chinese';'Traditional Chinese';'Japanese'],True,False,False,0,Single-player;Partial Controller Support,W
 147,('0';'20000'),4.99,['English'],True,False,False,0,Single-player,W
-148,('0';'20000'),6.99,['Simplified Chinese'],True,False,False,0,Single-player,Steam Achievements,W
+148,('0';'20000'),6.99,['Simplified Chinese'],True,False,False,0,Single-player;Steam Achievements,W
 149,('0';'20000'),2.99,['English'],True,False,False,0,Single-player,W
-150,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,Partial Controller Support,W
-151,('0';'20000'),9.99,['English';'Russian';'Simplified Chinese';'French';'German'],True,False,False,0,Single-player,Steam Achievements,W
+150,('0';'20000'),0.0,['English'],True,False,False,0,Single-player;Partial Controller Support,W
+151,('0';'20000'),9.99,['English';'Russian';'Simplified Chinese';'French';'German'],True,False,False,0,Single-player;Steam Achievements,W
 152,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,W
-153,('500000';'1000000'),14.99,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Dutch';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Spanish - Latin America';'Swedish';'Thai';'Traditional Chinese';'Turkish'],True,False,False,0,Single-player,Multi-player,Co-op,Online Co-op,Steam Achievements,Full controller support,Steam Cloud,Remote Play on Phone,Remote Play on Tablet,Remote Play on TV,W
-154,('0';'20000'),0.74,['English';'French';'German';'Spanish - Spain';'Russian';'Simplified Chinese';'Japanese';'Polish';'Portuguese';'Ukrainian';'Italian';'Arabic';'Bulgarian';'Czech';'Danish';'Dutch';'Finnish';'Greek';'Hungarian';'Korean';'Norwegian';'Portuguese - Brazil';'Romanian';'Spanish - Latin America';'Swedish';'Thai';'Traditional Chinese';'Turkish';'Vietnamese'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Workshop,Steam Cloud,Stats,Steam Leaderboards,W
+153,('500000';'1000000'),14.99,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Dutch';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Spanish - Latin America';'Swedish';'Thai';'Traditional Chinese';'Turkish'],True,False,False,0,Single-player;Multi-player;Co-op;Online Co-op;Steam Achievements;Full controller support;Steam Cloud;Remote Play on Phone;Remote Play on Tablet;Remote Play on TV,W
+154,('0';'20000'),0.74,['English';'French';'German';'Spanish - Spain';'Russian';'Simplified Chinese';'Japanese';'Polish';'Portuguese';'Ukrainian';'Italian';'Arabic';'Bulgarian';'Czech';'Danish';'Dutch';'Finnish';'Greek';'Hungarian';'Korean';'Norwegian';'Portuguese - Brazil';'Romanian';'Spanish - Latin America';'Swedish';'Thai';'Traditional Chinese';'Turkish';'Vietnamese'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards,W
 155,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,W
-156,('0';'20000'),2.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Simplified Chinese'],True,False,False,0,Single-player,Steam Leaderboards,W
-157,('0';'20000'),3.99,['English';'Portuguese - Brazil'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Achievements,Partial Controller Support,Remote Play Together,W
-158,('0';'20000'),0.99,['English';'Russian'],True,False,False,0,Single-player,Steam Achievements,W
-159,('0';'20000'),12.99,['English';'Spanish - Spain';'French'],True,True,False,0,Single-player,Steam Achievements,WM
-160,('100000';'200000'),14.99,['English';'German';'Russian';'Simplified Chinese';'Turkish';'Spanish - Spain'],True,True,True,0,Single-player,Steam Achievements,WLM
-161,('0';'20000'),17.99,['Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,W
-162,('0';'20000'),1.99,['English';'Polish';'French';'German';'Spanish - Spain';'Hungarian';'Russian'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,Stats,W
+156,('0';'20000'),2.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Simplified Chinese'],True,False,False,0,Single-player;Steam Leaderboards,W
+157,('0';'20000'),3.99,['English';'Portuguese - Brazil'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Partial Controller Support;Remote Play Together,W
+158,('0';'20000'),0.99,['English';'Russian'],True,False,False,0,Single-player;Steam Achievements,W
+159,('0';'20000'),12.99,['English';'Spanish - Spain';'French'],True,True,False,0,Single-player;Steam Achievements,WM
+160,('100000';'200000'),14.99,['English';'German';'Russian';'Simplified Chinese';'Turkish';'Spanish - Spain'],True,True,True,0,Single-player;Steam Achievements,WLM
+161,('0';'20000'),17.99,['Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud,W
+162,('0';'20000'),1.99,['English';'Polish';'French';'German';'Spanish - Spain';'Hungarian';'Russian'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud;Stats,W
 163,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,W
-164,('0';'20000'),2.99,['English'],True,False,False,0,Single-player,Steam Cloud,W
+164,('0';'20000'),2.99,['English'],True,False,False,0,Single-player;Steam Cloud,W
 165,('0';'20000'),7.99,['English'],True,False,False,0,Single-player,W
 166,('0';'20000'),0.99,['Simplified Chinese'],True,False,False,0,Single-player,W
-167,('0';'20000'),10.99,['English';'Russian'],True,False,False,0,Single-player,Steam Achievements,Partial Controller Support,Steam Cloud,W
+167,('0';'20000'),10.99,['English';'Russian'],True,False,False,0,Single-player;Steam Achievements;Partial Controller Support;Steam Cloud,W
 168,('20000';'50000'),9.99,['English';'French';'German'],True,False,False,0,Single-player,W
 169,('0';'20000'),1.99,['Simplified Chinese'],True,False,False,0,Single-player,W
-170,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,Steam Leaderboards,W
+170,('0';'20000'),0.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards,W
 171,('0';'20000'),3.99,['English'],True,False,False,0,Single-player,W
-172,('0';'20000'),2.99,['English'],True,True,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Remote Play Together,WM
-173,('0';'20000'),7.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,W
-174,('0';'20000'),12.99,['English';'French';'Spanish - Spain';'Finnish';'German'],True,True,False,0,Single-player,Multi-player,PvP,Online PvP,Shared/Split Screen PvP,Co-op,Online Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Remote Play Together,WM
-175,('20000';'50000'),24.99,['English';'French';'German';'Spanish - Spain';'Russian';'Simplified Chinese';'Portuguese - Brazil';'Japanese';'Korean';'Polish';'Turkish'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,W
-176,('0';'20000'),14.99,['English'],True,False,True,0,Single-player,Full controller support,Steam Cloud,WL
+172,('0';'20000'),2.99,['English'],True,True,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Remote Play Together,WM
+173,('0';'20000'),7.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support,W
+174,('0';'20000'),12.99,['English';'French';'Spanish - Spain';'Finnish';'German'],True,True,False,0,Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Co-op;Online Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Remote Play Together,WM
+175,('20000';'50000'),24.99,['English';'French';'German';'Spanish - Spain';'Russian';'Simplified Chinese';'Portuguese - Brazil';'Japanese';'Korean';'Polish';'Turkish'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud,W
+176,('0';'20000'),14.99,['English'],True,False,True,0,Single-player;Full controller support;Steam Cloud,WL
 177,('0';'20000'),1.99,['English'],True,False,True,0,Single-player,WL
-178,('0';'20000'),0.74,['English';'French';'Italian';'German';'Spanish - Spain';'Polish';'Portuguese - Brazil';'Russian';'Japanese'],True,False,False,0,Single-player,Steam Trading Cards,W
-179,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,Multi-player,Co-op,Shared/Split Screen Co-op,Partial Controller Support,Remote Play Together,W
+178,('0';'20000'),0.74,['English';'French';'Italian';'German';'Spanish - Spain';'Polish';'Portuguese - Brazil';'Russian';'Japanese'],True,False,False,0,Single-player;Steam Trading Cards,W
+179,('0';'20000'),9.99,['English'],True,False,False,0,Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Partial Controller Support;Remote Play Together,W
 181,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,W
-182,('20000';'50000'),0.0,['English'],True,False,True,0,Single-player,Multi-player,PvP,Online PvP,In-App Purchases,Partial Controller Support,WL
+182,('20000';'50000'),0.0,['English'],True,False,True,0,Single-player;Multi-player;PvP;Online PvP;In-App Purchases;Partial Controller Support,WL
 183,('200000';'500000'),0.0,['English'],True,False,False,0,Single-player,W
-184,('0';'20000'),3.99,['English';'Portuguese - Brazil';'Spanish - Latin America';'Portuguese';'Simplified Chinese';'German';'Russian';'Japanese'],True,False,False,0,Single-player,Steam Achievements,Steam Workshop,W
+184,('0';'20000'),3.99,['English';'Portuguese - Brazil';'Spanish - Latin America';'Portuguese';'Simplified Chinese';'German';'Russian';'Japanese'],True,False,False,0,Single-player;Steam Achievements;Steam Workshop,W
 185,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,W
-186,('0';'20000'),3.99,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Leaderboards,W
-187,('50000';'100000'),39.99,['English';'Japanese'],True,False,False,13,Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards,W
-188,('20000';'50000'),12.99,['Japanese'],True,False,False,0,Single-player,Steam Cloud,W
+186,('0';'20000'),3.99,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Leaderboards,W
+187,('50000';'100000'),39.99,['English';'Japanese'],True,False,False,13,Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud;Steam Leaderboards,W
+188,('20000';'50000'),12.99,['Japanese'],True,False,False,0,Single-player;Steam Cloud,W
 189,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,W
 190,('0';'20000'),4.2,['English'],True,False,False,0,Single-player,W
-191,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,Steam Cloud,Stats,Steam Leaderboards,Includes level editor,W
-192,('0';'20000'),3.99,['English'],True,False,False,0,Single-player,Steam Achievements,Partial Controller Support,W
-193,('0';'20000'),0.0,['English';'Simplified Chinese';'Russian'],True,False,False,0,Single-player,Steam Trading Cards,W
+191,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Cloud;Stats;Steam Leaderboards;Includes level editor,W
+192,('0';'20000'),3.99,['English'],True,False,False,0,Single-player;Steam Achievements;Partial Controller Support,W
+193,('0';'20000'),0.0,['English';'Simplified Chinese';'Russian'],True,False,False,0,Single-player;Steam Trading Cards,W
 194,('0';'20000'),11.99,['English'],True,False,False,0,Single-player,W
 195,('0';'20000'),4.99,['English'],True,False,False,0,Single-player,W
-196,('0';'20000'),19.99,['Japanese';'English'],True,False,False,0,Multi-player,PvP,Online PvP,W
-197,('0';'20000'),0.99,['English';'Spanish - Spain';'Korean';'Russian';'Simplified Chinese'],True,False,False,0,Single-player,Steam Achievements,W
-198,('0';'0'),0.0,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Portuguese - Brazil';'Vietnamese';'Spanish - Latin America';'Traditional Chinese';'Simplified Chinese';'Korean';'Polish';'Portuguese';'Russian';'Thai';'Turkish';'Japanese'],True,False,False,0,Multi-player,PvP,Online PvP,Cross-Platform Multiplayer,In-App Purchases,W
+196,('0';'20000'),19.99,['Japanese';'English'],True,False,False,0,Multi-player;PvP;Online PvP,W
+197,('0';'20000'),0.99,['English';'Spanish - Spain';'Korean';'Russian';'Simplified Chinese'],True,False,False,0,Single-player;Steam Achievements,W
+198,('0';'0'),0.0,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Portuguese - Brazil';'Vietnamese';'Spanish - Latin America';'Traditional Chinese';'Simplified Chinese';'Korean';'Polish';'Portuguese';'Russian';'Thai';'Turkish';'Japanese'],True,False,False,0,Multi-player;PvP;Online PvP;Cross-Platform Multiplayer;In-App Purchases,W
 199,('0';'20000'),16.99,['English';'Simplified Chinese'],True,False,False,0,Single-player,W
-200,('0';'20000'),6.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,W
+200,('0';'20000'),6.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support,W
 201,('0';'20000'),12.59,['English';'German';'Spanish - Spain';'Polish';'Russian';'French';'Italian';'Traditional Chinese';'Simplified Chinese'],True,False,False,0,Single-player,W
-202,('0';'20000'),5.99,['English'],True,False,False,0,Multi-player,PvP,Online PvP,W
-203,('0';'20000'),7.99,['English'],True,False,False,0,Single-player,Multi-player,Co-op,Online Co-op,LAN Co-op,Partial Controller Support,W
+202,('0';'20000'),5.99,['English'],True,False,False,0,Multi-player;PvP;Online PvP,W
+203,('0';'20000'),7.99,['English'],True,False,False,0,Single-player;Multi-player;Co-op;Online Co-op;LAN Co-op;Partial Controller Support,W
 204,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,W
-205,('200000';'500000'),0.69,['English';'German';'Russian';'French';'Italian';'Spanish - Spain';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Simplified Chinese';'Traditional Chinese'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,WLM
-206,('20000';'50000'),8.99,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,W
-207,('0';'0'),2.39,['English';'Portuguese - Brazil'],True,False,False,0,Single-player,Steam Achievements,Full controller support,W
-208,('20000';'50000'),29.99,['English';'French';'Italian';'German';'Spanish - Spain';'Portuguese - Brazil';'Spanish - Latin America'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Steam Achievements,Full controller support,Steam Cloud,Includes level editor,W
-209,('0';'20000'),4.99,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,W
-210,('0';'20000'),10.99,['English'],True,True,False,0,Single-player,Full controller support,WM
-211,('20000';'50000'),4.99,['English';'Russian';'Ukrainian'],True,False,True,0,Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,WL
+205,('200000';'500000'),0.69,['English';'German';'Russian';'French';'Italian';'Spanish - Spain';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Simplified Chinese';'Traditional Chinese'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud,WLM
+206,('20000';'50000'),8.99,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud,W
+207,('0';'0'),2.39,['English';'Portuguese - Brazil'],True,False,False,0,Single-player;Steam Achievements;Full controller support,W
+208,('20000';'50000'),29.99,['English';'French';'Italian';'German';'Spanish - Spain';'Portuguese - Brazil';'Spanish - Latin America'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Steam Achievements;Full controller support;Steam Cloud;Includes level editor,W
+209,('0';'20000'),4.99,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards,W
+210,('0';'20000'),10.99,['English'],True,True,False,0,Single-player;Full controller support,WM
+211,('20000';'50000'),4.99,['English';'Russian';'Ukrainian'],True,False,True,0,Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud,WL
 212,('0';'20000'),0.99,['English';'Portuguese - Brazil'],True,False,False,0,Single-player,W
-213,('50000';'100000'),4.99,['English'],True,True,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Full controller support,Remote Play Together,WM
-215,('0';'20000'),17.99,['English';'French';'Italian';'German';'Spanish - Spain';'Russian'],True,False,False,0,Single-player,Steam Achievements,Partial Controller Support,W
-217,('0';'20000'),9.99,['English'],True,True,False,0,Single-player,Multi-player,Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Remote Play Together,WM
+213,('50000';'100000'),4.99,['English'],True,True,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Full controller support;Remote Play Together,WM
+215,('0';'20000'),17.99,['English';'French';'Italian';'German';'Spanish - Spain';'Russian'],True,False,False,0,Single-player;Steam Achievements;Partial Controller Support,W
+217,('0';'20000'),9.99,['English'],True,True,False,0,Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Remote Play Together,WM
 218,('0';'20000'),1.99,['English'],True,False,False,0,Single-player,W
-219,('0';'20000'),9.99,['English';'French';'German'],True,False,False,0,Single-player,Steam Achievements,W
-221,('0';'20000'),2.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,W
-222,('20000';'50000'),0.0,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,W
+219,('0';'20000'),9.99,['English';'French';'German'],True,False,False,0,Single-player;Steam Achievements,W
+221,('0';'20000'),2.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support,W
+222,('20000';'50000'),0.0,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support,W
 223,('20000';'50000'),14.99,['English';'Polish';'French';'Italian';'German';'Spanish - Spain';'Russian'],True,False,False,0,Single-player,W
-224,('0';'20000'),16.99,['English';'French';'German';'Spanish - Spain';'Italian';'Japanese';'Portuguese - Brazil';'Russian';'Traditional Chinese'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,W
+224,('0';'20000'),16.99,['English';'French';'German';'Spanish - Spain';'Italian';'Japanese';'Portuguese - Brazil';'Russian';'Traditional Chinese'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Cloud,W
 225,('20000';'50000'),4.99,['English';'French';'Italian';'German';'Spanish - Spain';'Dutch';'Japanese';'Simplified Chinese'],True,True,False,0,Single-player,WM
 226,('0';'20000'),19.99,['Japanese'],True,False,False,0,Single-player,W
-227,('50000';'100000'),1.99,['English'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Stats,Steam Leaderboards,WLM
-228,('0';'20000'),4.99,['English';'German'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Trading Cards,W
-229,('50000';'100000'),2.99,['English';'Russian';'French';'Portuguese - Brazil';'German';'Simplified Chinese';'Spanish - Spain';'Portuguese';'Traditional Chinese';'Italian';'Japanese'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,WLM
+227,('50000';'100000'),1.99,['English'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud;Stats;Steam Leaderboards,WLM
+228,('0';'20000'),4.99,['English';'German'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Trading Cards,W
+229,('50000';'100000'),2.99,['English';'Russian';'French';'Portuguese - Brazil';'German';'Simplified Chinese';'Spanish - Spain';'Portuguese';'Traditional Chinese';'Italian';'Japanese'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud,WLM
 230,('0';'20000'),0.99,['English'],True,True,False,0,Single-player,WM
 231,('0';'20000'),1.99,['English'],True,False,False,0,Single-player,W
 232,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,W
-233,('0';'20000'),14.99,['English';'French';'Italian';'German';'Spanish - Spain';'Hungarian';'Portuguese - Brazil';'Russian';'Polish'],True,True,False,0,Single-player,Steam Achievements,Includes level editor,WM
-234,('100000';'200000'),4.99,['English'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,Steam Leaderboards,WLM
+233,('0';'20000'),14.99,['English';'French';'Italian';'German';'Spanish - Spain';'Hungarian';'Portuguese - Brazil';'Russian';'Polish'],True,True,False,0,Single-player;Steam Achievements;Includes level editor,WM
+234,('100000';'200000'),4.99,['English'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards;Steam Leaderboards,WLM
 235,('0';'0'),0.0,['English'],True,False,False,0,Single-player,W
-236,('0';'20000'),29.99,['English'],True,False,False,0,Single-player,Steam Leaderboards,W
-237,('200000';'500000'),0.0,['English';'Spanish - Spain';'Simplified Chinese';'Russian';'French';'Italian';'German';'Spanish - Latin America';'Ukrainian';'Turkish';'Japanese';'Polish';'Thai';'Swedish';'Traditional Chinese';'Portuguese';'Portuguese - Brazil';'Vietnamese';'Arabic';'Korean'],True,False,False,0,Single-player,Steam Achievements,Steam Leaderboards,W
-238,('0';'20000'),0.59,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Leaderboards,W
-239,('20000';'50000'),29.99,['English';'Japanese';'Korean';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Remote Play on TV,W
-240,('200000';'500000'),15.99,['Simplified Chinese'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,W
-241,('0';'20000'),3.99,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,W
-242,('0';'20000'),19.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-243,('0';'20000'),3.99,['English';'Russian'],True,False,False,0,Single-player,Full controller support,W
+236,('0';'20000'),29.99,['English'],True,False,False,0,Single-player;Steam Leaderboards,W
+237,('200000';'500000'),0.0,['English';'Spanish - Spain';'Simplified Chinese';'Russian';'French';'Italian';'German';'Spanish - Latin America';'Ukrainian';'Turkish';'Japanese';'Polish';'Thai';'Swedish';'Traditional Chinese';'Portuguese';'Portuguese - Brazil';'Vietnamese';'Arabic';'Korean'],True,False,False,0,Single-player;Steam Achievements;Steam Leaderboards,W
+238,('0';'20000'),0.59,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Leaderboards,W
+239,('20000';'50000'),29.99,['English';'Japanese';'Korean';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Remote Play on TV,W
+240,('200000';'500000'),15.99,['Simplified Chinese'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud,W
+241,('0';'20000'),3.99,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support,W
+242,('0';'20000'),19.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+243,('0';'20000'),3.99,['English';'Russian'],True,False,False,0,Single-player;Full controller support,W
 244,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,W
 245,('0';'20000'),3.99,['English'],True,False,False,0,Single-player,W
-246,('50000';'100000'),14.99,['English';'French';'Italian';'German';'Spanish - Spain';'Polish';'Russian'],True,True,True,0,Single-player,Steam Achievements,WLM
-247,('0';'20000'),9.99,['English'],True,True,True,0,Single-player,Multi-player,PvP,Online PvP,Shared/Split Screen PvP,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Remote Play Together,WLM
-248,('0';'20000'),1.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-249,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player,Multi-player,W
-250,('0';'20000'),0.0,['English'],True,False,False,0,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Full controller support,Remote Play Together,W
-251,('0';'20000'),6.99,['English';'Japanese'],True,False,False,0,Single-player,Steam Achievements,Full controller support,W
-252,('0';'20000'),4.99,['English';'French';'German';'Spanish - Spain';'Japanese';'Portuguese - Brazil';'Russian'],True,True,True,0,Single-player,Full controller support,Steam Cloud,WLM
-253,('0';'20000'),4.99,['English'],True,True,False,0,Single-player,Multi-player,Shared/Split Screen,Full controller support,Remote Play Together,WM
-254,('20000';'50000'),19.99,['Japanese'],True,False,False,0,Single-player,Steam Cloud,W
-255,('0';'0'),0.0,['Simplified Chinese'],True,True,False,0,Single-player,Steam Achievements,Partial Controller Support,Steam Cloud,WM
+246,('50000';'100000'),14.99,['English';'French';'Italian';'German';'Spanish - Spain';'Polish';'Russian'],True,True,True,0,Single-player;Steam Achievements,WLM
+247,('0';'20000'),9.99,['English'],True,True,True,0,Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Remote Play Together,WLM
+248,('0';'20000'),1.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+249,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player;Multi-player,W
+250,('0';'20000'),0.0,['English'],True,False,False,0,Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Full controller support;Remote Play Together,W
+251,('0';'20000'),6.99,['English';'Japanese'],True,False,False,0,Single-player;Steam Achievements;Full controller support,W
+252,('0';'20000'),4.99,['English';'French';'German';'Spanish - Spain';'Japanese';'Portuguese - Brazil';'Russian'],True,True,True,0,Single-player;Full controller support;Steam Cloud,WLM
+253,('0';'20000'),4.99,['English'],True,True,False,0,Single-player;Multi-player;Shared/Split Screen;Full controller support;Remote Play Together,WM
+254,('20000';'50000'),19.99,['Japanese'],True,False,False,0,Single-player;Steam Cloud,W
+255,('0';'0'),0.0,['Simplified Chinese'],True,True,False,0,Single-player;Steam Achievements;Partial Controller Support;Steam Cloud,WM
 256,('0';'20000'),9.99,['English';'Japanese'],True,True,False,0,Single-player,WM
-257,('500000';'1000000'),9.99,['English';'French';'German';'Italian';'Spanish - Spain'],True,True,False,0,Single-player,Multi-player,PvP,Online PvP,LAN PvP,Shared/Split Screen PvP,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Steam Turn Notifications,Remote Play on Phone,Remote Play on Tablet,Remote Play Together,WM
-258,('0';'20000'),7.99,['English';'French';'German';'Simplified Chinese';'Russian'],True,False,False,0,Single-player,Steam Achievements,Stats,Steam Leaderboards,W
-259,('0';'0'),0.0,['English'],True,False,False,0,Multi-player,Co-op,Online Co-op,Partial Controller Support,W
+257,('500000';'1000000'),9.99,['English';'French';'German';'Italian';'Spanish - Spain'],True,True,False,0,Single-player;Multi-player;PvP;Online PvP;LAN PvP;Shared/Split Screen PvP;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Steam Turn Notifications;Remote Play on Phone;Remote Play on Tablet;Remote Play Together,WM
+258,('0';'20000'),7.99,['English';'French';'German';'Simplified Chinese';'Russian'],True,False,False,0,Single-player;Steam Achievements;Stats;Steam Leaderboards,W
+259,('0';'0'),0.0,['English'],True,False,False,0,Multi-player;Co-op;Online Co-op;Partial Controller Support,W
 260,('0';'20000'),0.0,['English';'Portuguese - Brazil'],True,False,False,0,Single-player,W
-261,('20000';'50000'),1.99,['English';'Russian'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Co-op,Online Co-op,Steam Achievements,W
-262,('0';'20000'),12.99,['English';'French';'Italian';'German';'Spanish - Spain';'Dutch';'Japanese';'Korean';'Polish';'Russian';'Simplified Chinese';'Swedish';'Thai';'Traditional Chinese';'Portuguese - Brazil'],True,True,False,0,Single-player,Steam Achievements,WM
-263,('0';'20000'),1.99,['English';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player,Includes level editor,W
-264,('20000';'50000'),1.99,['English'],True,True,True,0,Single-player,Steam Achievements,Partial Controller Support,WLM
-265,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Leaderboards,W
-266,('500000';'1000000'),12.99,['English';'Russian';'German';'Hungarian';'Korean';'Greek';'Portuguese - Brazil';'Simplified Chinese';'Polish';'French';'Italian';'Spanish - Spain';'Czech';'Japanese';'Spanish - Latin America';'Traditional Chinese';'Turkish';'Vietnamese'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,WLM
-267,('0';'20000'),9.99,['English'],True,False,False,0,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Achievements,Full controller support,Stats,Remote Play Together,W
+261,('20000';'50000'),1.99,['English';'Russian'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Co-op;Online Co-op;Steam Achievements,W
+262,('0';'20000'),12.99,['English';'French';'Italian';'German';'Spanish - Spain';'Dutch';'Japanese';'Korean';'Polish';'Russian';'Simplified Chinese';'Swedish';'Thai';'Traditional Chinese';'Portuguese - Brazil'],True,True,False,0,Single-player;Steam Achievements,WM
+263,('0';'20000'),1.99,['English';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player;Includes level editor,W
+264,('20000';'50000'),1.99,['English'],True,True,True,0,Single-player;Steam Achievements;Partial Controller Support,WLM
+265,('0';'20000'),0.0,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Leaderboards,W
+266,('500000';'1000000'),12.99,['English';'Russian';'German';'Hungarian';'Korean';'Greek';'Portuguese - Brazil';'Simplified Chinese';'Polish';'French';'Italian';'Spanish - Spain';'Czech';'Japanese';'Spanish - Latin America';'Traditional Chinese';'Turkish';'Vietnamese'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud,WLM
+267,('0';'20000'),9.99,['English'],True,False,False,0,Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Full controller support;Stats;Remote Play Together,W
 268,('0';'20000'),2.99,['English';'Simplified Chinese';'Traditional Chinese';'Japanese';'Korean'],True,False,False,0,Single-player,W
-269,('0';'20000'),4.99,['English';'Japanese'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,W
-270,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,Partial Controller Support,W
-271,('20000';'50000'),3.99,['English';'Russian'],True,True,True,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,WLM
-272,('0';'20000'),19.99,['English'],True,True,True,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Co-op,Shared/Split Screen Co-op,Steam Achievements,Full controller support,Steam Cloud,Remote Play Together,WLM
+269,('0';'20000'),4.99,['English';'Japanese'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud,W
+270,('0';'20000'),0.0,['English'],True,False,False,0,Single-player;Partial Controller Support,W
+271,('20000';'50000'),3.99,['English';'Russian'],True,True,True,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards,WLM
+272,('0';'20000'),19.99,['English'],True,True,True,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Steam Achievements;Full controller support;Steam Cloud;Remote Play Together,WLM
 273,('0';'20000'),9.99,['English';'\\r\\nFrench';'\\r\\nGerman'],True,False,False,0,Single-player,W
-274,('0';'20000'),3.99,['English'],True,True,True,0,Single-player,Captions available,Steam Cloud,WLM
+274,('0';'20000'),3.99,['English'],True,True,True,0,Single-player;Captions available;Steam Cloud,WLM
 275,('0';'20000'),2.99,['English'],True,False,False,0,Single-player,W
 276,('0';'0'),0.0,['Simplified Chinese'],True,False,False,0,Single-player,W
 277,('0';'20000'),2.99,['Russian';'English'],True,True,True,0,Single-player,WLM
-278,('0';'20000'),0.99,['English'],True,True,True,0,Single-player,Steam Trading Cards,WLM
-279,('0';'20000'),9.99,['English';'French'],True,True,True,0,Single-player,Steam Achievements,Full controller support,WLM
+278,('0';'20000'),0.99,['English'],True,True,True,0,Single-player;Steam Trading Cards,WLM
+279,('0';'20000'),9.99,['English';'French'],True,True,True,0,Single-player;Steam Achievements;Full controller support,WLM
 280,('0';'20000'),9.99,['English'],True,True,False,0,Single-player,WM
-281,('0';'20000'),3.99,['English';'Portuguese - Brazil'],True,False,False,0,Single-player,Steam Achievements,Full controller support,W
-282,('0';'20000'),1.99,['Simplified Chinese'],True,False,False,0,Single-player,Steam Achievements,W
+281,('0';'20000'),3.99,['English';'Portuguese - Brazil'],True,False,False,0,Single-player;Steam Achievements;Full controller support,W
+282,('0';'20000'),1.99,['Simplified Chinese'],True,False,False,0,Single-player;Steam Achievements,W
 283,('0';'20000'),0.0,['English'],True,True,False,0,Single-player,WM
 284,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,W
-285,('0';'20000'),1.99,['English';'Russian'],True,True,True,0,Single-player,Steam Achievements,Partial Controller Support,Steam Cloud,WLM
+285,('0';'20000'),1.99,['English';'Russian'],True,True,True,0,Single-player;Steam Achievements;Partial Controller Support;Steam Cloud,WLM
 286,('0';'20000'),6.99,['English';'Japanese';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player,W
-287,('0';'20000'),2.69,['English';'French';'Italian';'German';'Spanish - Spain';'Russian';'Simplified Chinese'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,Steam Leaderboards,W
-288,('0';'20000'),7.99,['English';'German';'Russian'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,LAN PvP,Co-op,Online Co-op,LAN Co-op,Steam Achievements,Steam Cloud,W
+287,('0';'20000'),2.69,['English';'French';'Italian';'German';'Spanish - Spain';'Russian';'Simplified Chinese'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards,W
+288,('0';'20000'),7.99,['English';'German';'Russian'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;LAN PvP;Co-op;Online Co-op;LAN Co-op;Steam Achievements;Steam Cloud,W
 289,('0';'20000'),3.99,['English';'French';'Italian';'German';'Spanish - Spain';'Dutch';'Portuguese - Brazil';'Russian';'Swedish'],True,False,False,0,Single-player,W
-290,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,Multi-player,Online PvP,Steam Achievements,Partial Controller Support,Stats,Steam Leaderboards,W
+290,('0';'20000'),0.0,['English'],True,False,False,0,Single-player;Multi-player;Online PvP;Steam Achievements;Partial Controller Support;Stats;Steam Leaderboards,W
 292,('0';'20000'),14.99,['English'],True,False,False,0,Single-player,W
 293,('0';'20000'),11.99,['Simplified Chinese'],True,False,False,0,Single-player,W
-294,('0';'20000'),49.99,['English'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Partial Controller Support,Steam Cloud,W
-295,('200000';'500000'),2.99,['English'],True,True,True,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderboards,WLM
+294,('0';'20000'),49.99,['English'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Partial Controller Support;Steam Cloud,W
+295,('200000';'500000'),2.99,['English'],True,True,True,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Leaderboards,WLM
 296,('0';'20000'),1.99,['English'],True,False,False,0,Single-player,W
 297,('0';'20000'),4.99,['English';'French';'Italian';'German';'Spanish - Spain';'Russian';'Turkish';'Japanese';'Polish';'Thai';'Simplified Chinese';'Traditional Chinese';'Portuguese';'Arabic';'Korean'],True,False,False,0,Single-player,W
-299,('0';'20000'),2.99,['English';'Simplified Chinese'],True,False,False,0,Single-player,Full controller support,W
-301,('0';'20000'),14.99,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,W
-302,('0';'20000'),2.99,['English';'Portuguese - Brazil'],True,True,True,0,Single-player,Steam Achievements,WLM
-303,('0';'20000'),9.99,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Bulgarian';'Czech';'Danish';'Dutch';'Finnish';'Greek';'Hungarian';'Japanese';'Korean';'Norwegian';'Polish';'Portuguese';'Portuguese - Brazil';'Romanian';'Russian';'Simplified Chinese';'Spanish - Latin America';'Swedish';'Thai';'Traditional Chinese';'Turkish';'Ukrainian';'Vietnamese'],True,True,True,0,Single-player,Steam Achievements,Steam Leaderboards,WLM
+299,('0';'20000'),2.99,['English';'Simplified Chinese'],True,False,False,0,Single-player;Full controller support,W
+301,('0';'20000'),14.99,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud,W
+302,('0';'20000'),2.99,['English';'Portuguese - Brazil'],True,True,True,0,Single-player;Steam Achievements,WLM
+303,('0';'20000'),9.99,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Bulgarian';'Czech';'Danish';'Dutch';'Finnish';'Greek';'Hungarian';'Japanese';'Korean';'Norwegian';'Polish';'Portuguese';'Portuguese - Brazil';'Romanian';'Russian';'Simplified Chinese';'Spanish - Latin America';'Swedish';'Thai';'Traditional Chinese';'Turkish';'Ukrainian';'Vietnamese'],True,True,True,0,Single-player;Steam Achievements;Steam Leaderboards,WLM
 304,('50000';'100000'),0.0,['Simplified Chinese'],True,True,False,0,Includes level editor,WM
-305,('0';'0'),0.0,['English'],True,False,False,0,Multi-player,PvP,Online PvP,Co-op,Online Co-op,In-App Purchases,W
+305,('0';'0'),0.0,['English'],True,False,False,0,Multi-player;PvP;Online PvP;Co-op;Online Co-op;In-App Purchases,W
 306,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,W
-307,('0';'20000'),29.99,['English'],True,False,False,0,Single-player,Multi-player,Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Remote Play Together,W
-308,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Leaderboards,W
-309,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,W
+307,('0';'20000'),29.99,['English'],True,False,False,0,Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Remote Play Together,W
+308,('0';'20000'),0.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Leaderboards,W
+309,('0';'20000'),9.99,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud,W
 310,('50000';'100000'),19.99,['English'],True,False,False,0,Single-player,W
-311,('20000';'50000'),24.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,W
-312,('0';'20000'),12.99,['English';'French';'Italian';'German';'Spanish - Spain';'Dutch';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Swedish';'Thai';'Traditional Chinese';'Turkish';'Vietnamese'],True,True,False,0,Single-player,Steam Achievements,WM
+311,('20000';'50000'),24.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud,W
+312,('0';'20000'),12.99,['English';'French';'Italian';'German';'Spanish - Spain';'Dutch';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Swedish';'Thai';'Traditional Chinese';'Turkish';'Vietnamese'],True,True,False,0,Single-player;Steam Achievements,WM
 313,('100000';'200000'),4.99,['English'],True,True,False,0,Single-player,WM
-314,('0';'20000'),1.99,['English'],True,False,False,0,Single-player,Steam Leaderboards,W
-316,('0';'20000'),9.99,['English'],True,False,True,0,Single-player,Multi-player,PvP,Online PvP,Cross-Platform Multiplayer,Steam Achievements,Partial Controller Support,Includes level editor,WL
-317,('0';'20000'),11.99,['English'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Steam Achievements,Full controller support,Steam Workshop,Steam Cloud,Stats,Steam Leaderboards,W
+314,('0';'20000'),1.99,['English'],True,False,False,0,Single-player;Steam Leaderboards,W
+316,('0';'20000'),9.99,['English'],True,False,True,0,Single-player;Multi-player;PvP;Online PvP;Cross-Platform Multiplayer;Steam Achievements;Partial Controller Support;Includes level editor,WL
+317,('0';'20000'),11.99,['English'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Steam Achievements;Full controller support;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards,W
 318,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player,W
-319,('0';'20000'),9.99,['English';'French';'Italian';'German';'Spanish - Spain';'Dutch'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards,Remote Play on TV,Remote Play Together,W
-320,('0';'20000'),7.99,['English';'Danish';'Norwegian';'Russian'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Shared/Split Screen PvP,Shared/Split Screen,Remote Play Together,W
-321,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,Partial Controller Support,W
+319,('0';'20000'),9.99,['English';'French';'Italian';'German';'Spanish - Spain';'Dutch'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards;Remote Play on TV;Remote Play Together,W
+320,('0';'20000'),7.99,['English';'Danish';'Norwegian';'Russian'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Shared/Split Screen;Remote Play Together,W
+321,('0';'20000'),9.99,['English'],True,False,False,0,Single-player;Partial Controller Support,W
 322,('0';'20000'),1.99,['English'],True,False,False,0,Single-player,W
 323,('0';'20000'),0.99,['English'],True,True,True,0,Single-player,WLM
-324,('0';'20000'),12.99,['English'],True,False,True,0,Single-player,Full controller support,Steam Cloud,WL
-325,('0';'20000'),19.99,['English'],True,False,True,0,Single-player,Steam Leaderboards,WL
+324,('0';'20000'),12.99,['English'],True,False,True,0,Single-player;Full controller support;Steam Cloud,WL
+325,('0';'20000'),19.99,['English'],True,False,True,0,Single-player;Steam Leaderboards,WL
 326,('0';'0'),0.0,['Simplified Chinese'],True,False,False,0,Single-player,W
 327,('50000';'100000'),0.99,['English'],True,False,False,0,Single-player,W
-328,('20000';'50000'),0.0,['English'],True,False,False,0,Single-player,Partial Controller Support,W
+328,('20000';'50000'),0.0,['English'],True,False,False,0,Single-player;Partial Controller Support,W
 329,('0';'20000'),7.99,['English'],True,False,False,0,Single-player,W
-330,('50000';'100000'),0.0,['English'],True,True,True,0,Multi-player,MMO,Steam Achievements,In-App Purchases,WLM
-331,('0';'20000'),19.99,['English';'French';'Italian';'German';'Spanish - Spain';'Korean';'Polish';'Portuguese';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player,Full controller support,Steam Cloud,Steam Leaderboards,W
-332,('0';'20000'),2.99,['English'],True,False,False,0,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Achievements,Full controller support,Remote Play on TV,Remote Play Together,W
+330,('50000';'100000'),0.0,['English'],True,True,True,0,Multi-player;MMO;Steam Achievements;In-App Purchases,WLM
+331,('0';'20000'),19.99,['English';'French';'Italian';'German';'Spanish - Spain';'Korean';'Polish';'Portuguese';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player;Full controller support;Steam Cloud;Steam Leaderboards,W
+332,('0';'20000'),2.99,['English'],True,False,False,0,Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Full controller support;Remote Play on TV;Remote Play Together,W
 333,('20000';'50000'),0.0,['English'],True,False,False,0,Single-player,W
-334,('0';'20000'),2.99,['English';'Portuguese - Brazil';'Russian'],True,False,False,0,Single-player,Steam Achievements,Full controller support,W
-335,('0';'20000'),7.99,['English'],True,True,False,0,Single-player,Multi-player,PvP,Online PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Achievements,Partial Controller Support,Steam Cloud,Remote Play Together,WM
-336,('0';'20000'),1.99,['English'],True,False,True,0,Single-player,Multi-player,PvP,Online PvP,Shared/Split Screen PvP,Co-op,Online Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Remote Play Together,WL
-337,('0';'20000'),2.99,['English';'Russian';'Portuguese';'Spanish - Spain';'Spanish - Latin America';'Turkish'],True,False,False,0,Multi-player,PvP,Online PvP,Co-op,Online Co-op,Cross-Platform Multiplayer,In-App Purchases,W
+334,('0';'20000'),2.99,['English';'Portuguese - Brazil';'Russian'],True,False,False,0,Single-player;Steam Achievements;Full controller support,W
+335,('0';'20000'),7.99,['English'],True,True,False,0,Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Partial Controller Support;Steam Cloud;Remote Play Together,WM
+336,('0';'20000'),1.99,['English'],True,False,True,0,Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Co-op;Online Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Remote Play Together,WL
+337,('0';'20000'),2.99,['English';'Russian';'Portuguese';'Spanish - Spain';'Spanish - Latin America';'Turkish'],True,False,False,0,Multi-player;PvP;Online PvP;Co-op;Online Co-op;Cross-Platform Multiplayer;In-App Purchases,W
 338,('0';'20000'),12.99,['English'],True,False,False,0,Single-player,W
-339,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,Partial Controller Support,W
-340,('0';'20000'),1.49,['English'],True,False,False,0,Multi-player,PvP,Online PvP,W
-341,('500000';'1000000'),2.49,['English'],True,True,True,0,Single-player,Steam Achievements,VR Support,Partial Controller Support,Steam Cloud,Stats,Steam Leaderboards,WLM
-342,('0';'20000'),39.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Russian';'Simplified Chinese';'Traditional Chinese';'Portuguese - Brazil'],True,False,False,0,Single-player,Multi-player,Co-op,Shared/Split Screen Co-op,Steam Achievements,Full controller support,Steam Cloud,Remote Play on Phone,Remote Play on Tablet,Remote Play on TV,Remote Play Together,W
-343,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,W
+339,('0';'20000'),0.99,['English'],True,False,False,0,Single-player;Partial Controller Support,W
+340,('0';'20000'),1.49,['English'],True,False,False,0,Multi-player;PvP;Online PvP,W
+341,('500000';'1000000'),2.49,['English'],True,True,True,0,Single-player;Steam Achievements;VR Support;Partial Controller Support;Steam Cloud;Stats;Steam Leaderboards,WLM
+342,('0';'20000'),39.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Russian';'Simplified Chinese';'Traditional Chinese';'Portuguese - Brazil'],True,False,False,0,Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Steam Achievements;Full controller support;Steam Cloud;Remote Play on Phone;Remote Play on Tablet;Remote Play on TV;Remote Play Together,W
+343,('0';'20000'),9.99,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards,W
 344,('20000';'50000'),6.99,['English'],True,False,False,0,Single-player,W
-345,('200000';'500000'),3.99,['English';'German';'Russian';'French';'Simplified Chinese';'Spanish - Spain';'Korean';'Polish';'Traditional Chinese';'Japanese';'Ukrainian'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,W
+345,('200000';'500000'),3.99,['English';'German';'Russian';'French';'Simplified Chinese';'Spanish - Spain';'Korean';'Polish';'Traditional Chinese';'Japanese';'Ukrainian'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud,W
 346,('0';'20000'),2.0,['English'],True,False,False,0,Single-player,W
-347,('0';'0'),0.0,['English'],True,False,False,0,Single-player,Full controller support,W
+347,('0';'0'),0.0,['English'],True,False,False,0,Single-player;Full controller support,W
 348,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,W
-349,('50000';'100000'),4.99,['English';'Russian'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Remote Play Together,W
-350,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,Steam Cloud,W
+349,('50000';'100000'),4.99,['English';'Russian'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Remote Play Together,W
+350,('0';'20000'),0.0,['English'],True,False,False,0,Single-player;Steam Cloud,W
 351,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,W
-352,('0';'20000'),0.99,['English';'Portuguese - Brazil';'Spanish - Latin America'],True,False,True,0,Single-player,Steam Achievements,Steam Cloud,WL
+352,('0';'20000'),0.99,['English';'Portuguese - Brazil';'Spanish - Latin America'],True,False,True,0,Single-player;Steam Achievements;Steam Cloud,WL
 353,('0';'20000'),3.99,['English';'Italian';'Spanish - Spain';'Russian';'French';'German'],True,False,False,0,Single-player,W
-354,('100000';'200000'),19.99,['English';'Spanish - Spain';'Italian';'German';'Russian'],True,True,True,0,Single-player,Multi-player,Steam Achievements,Steam Trading Cards,WLM
-356,('20000';'50000'),6.99,['English'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Full controller support,Steam Leaderboards,Remote Play on Phone,Remote Play on Tablet,Remote Play on TV,Remote Play Together,W
-357,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-358,('200000';'500000'),0.99,['English';'Russian'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,W
-360,('0';'20000'),2.99,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Leaderboards,W
-361,('0';'20000'),11.99,['English';'Japanese';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Co-op,Shared/Split Screen Co-op,Steam Achievements,Full controller support,Steam Cloud,Steam Leaderboards,Remote Play Together,W
-362,('0';'20000'),1.99,['English';'French';'Spanish - Spain';'German'],True,True,True,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,WLM
-363,('20000';'50000'),0.0,['English'],True,False,False,0,Multi-player,PvP,Online PvP,W
-364,('0';'20000'),5.99,['English'],True,False,False,0,Single-player,Partial Controller Support,W
+354,('100000';'200000'),19.99,['English';'Spanish - Spain';'Italian';'German';'Russian'],True,True,True,0,Single-player;Multi-player;Steam Achievements;Steam Trading Cards,WLM
+356,('20000';'50000'),6.99,['English'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Full controller support;Steam Leaderboards;Remote Play on Phone;Remote Play on Tablet;Remote Play on TV;Remote Play Together,W
+357,('0';'20000'),0.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+358,('200000';'500000'),0.99,['English';'Russian'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards,W
+360,('0';'20000'),2.99,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Leaderboards,W
+361,('0';'20000'),11.99,['English';'Japanese';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards;Remote Play Together,W
+362,('0';'20000'),1.99,['English';'French';'Spanish - Spain';'German'],True,True,True,0,Single-player;Steam Achievements;Full controller support;Steam Cloud,WLM
+363,('20000';'50000'),0.0,['English'],True,False,False,0,Multi-player;PvP;Online PvP,W
+364,('0';'20000'),5.99,['English'],True,False,False,0,Single-player;Partial Controller Support,W
 365,('0';'20000'),3.99,['English';'French';'Italian';'German';'Spanish - Spain';'Russian';'Japanese';'Simplified Chinese';'Traditional Chinese';'Portuguese';'Korean'],True,False,False,0,Single-player,W
 366,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,W
-367,('0';'20000'),2.99,['English'],True,True,False,0,Single-player,Steam Achievements,Partial Controller Support,WM
+367,('0';'20000'),2.99,['English'],True,True,False,0,Single-player;Steam Achievements;Partial Controller Support,WM
 368,('0';'20000'),9.99,['Simplified Chinese';'English'],True,False,False,0,Single-player,W
-369,('0';'20000'),4.99,['English'],True,True,False,0,Single-player,Steam Achievements,Full controller support,WM
-370,('0';'20000'),1.99,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Bulgarian';'Portuguese - Brazil';'Hungarian';'Vietnamese';'Greek';'Danish';'Spanish - Latin America';'Traditional Chinese';'Simplified Chinese';'Korean';'Dutch';'Norwegian';'Polish';'Portuguese';'Romanian';'Russian';'Thai';'Turkish';'Ukrainian';'Finnish';'Czech';'Swedish';'Japanese'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,W
-371,('0';'20000'),19.99,['English'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Co-op,Online Co-op,Cross-Platform Multiplayer,W
+369,('0';'20000'),4.99,['English'],True,True,False,0,Single-player;Steam Achievements;Full controller support,WM
+370,('0';'20000'),1.99,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Bulgarian';'Portuguese - Brazil';'Hungarian';'Vietnamese';'Greek';'Danish';'Spanish - Latin America';'Traditional Chinese';'Simplified Chinese';'Korean';'Dutch';'Norwegian';'Polish';'Portuguese';'Romanian';'Russian';'Thai';'Turkish';'Ukrainian';'Finnish';'Czech';'Swedish';'Japanese'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud,W
+371,('0';'20000'),19.99,['English'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Co-op;Online Co-op;Cross-Platform Multiplayer,W
 372,('0';'20000'),9.99,['Traditional Chinese';'English';'Japanese';'Simplified Chinese';'German';'French';'Spanish - Spain';'Russian';'Portuguese';'Korean';'Polish';'Dutch';'Thai';'Portuguese - Brazil';'Spanish - Latin America';'Italian'],True,True,False,0,Single-player,WM
-373,('0';'20000'),7.99,['English'],True,True,False,0,Single-player,Steam Achievements,Full controller support,WM
-374,('20000';'50000'),3.99,['English';'Simplified Chinese';'French';'Italian';'German';'Spanish - Spain';'Danish';'Ukrainian';'Russian';'Bulgarian';'Hungarian';'Turkish';'Greek';'Norwegian';'Czech';'Japanese';'Polish';'Thai';'Swedish';'Traditional Chinese';'Romanian';'Finnish';'Dutch';'Portuguese';'Portuguese - Brazil';'Spanish - Latin America';'Vietnamese';'Arabic';'Korean'],True,True,False,0,Single-player,Steam Achievements,Steam Cloud,WM
-375,('0';'20000'),0.99,['English';'Russian';'Italian';'German';'Simplified Chinese'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,Steam Leaderboards,W
-376,('20000';'50000'),0.51,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,W
+373,('0';'20000'),7.99,['English'],True,True,False,0,Single-player;Steam Achievements;Full controller support,WM
+374,('20000';'50000'),3.99,['English';'Simplified Chinese';'French';'Italian';'German';'Spanish - Spain';'Danish';'Ukrainian';'Russian';'Bulgarian';'Hungarian';'Turkish';'Greek';'Norwegian';'Czech';'Japanese';'Polish';'Thai';'Swedish';'Traditional Chinese';'Romanian';'Finnish';'Dutch';'Portuguese';'Portuguese - Brazil';'Spanish - Latin America';'Vietnamese';'Arabic';'Korean'],True,True,False,0,Single-player;Steam Achievements;Steam Cloud,WM
+375,('0';'20000'),0.99,['English';'Russian';'Italian';'German';'Simplified Chinese'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud;Steam Leaderboards,W
+376,('20000';'50000'),0.51,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud,W
 377,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,W
-378,('0';'20000'),14.99,['English';'French';'Italian';'German';'Spanish - Spain'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards,Remote Play on TV,W
+378,('0';'20000'),14.99,['English';'French';'Italian';'German';'Spanish - Spain'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Steam Leaderboards;Remote Play on TV,W
 379,('0';'20000'),9.99,['English'],True,False,False,18,Single-player,W
-380,('50000';'100000'),19.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Traditional Chinese'],True,True,False,0,Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,WM
-381,('0';'20000'),2.99,['English';'Russian'],True,False,False,0,Single-player,Steam Achievements,W
-382,('0';'20000'),2.99,['English';'Spanish - Spain';'Spanish - Latin America'],True,True,False,0,Single-player,Steam Achievements,Captions available,WM
-383,('20000';'50000'),0.0,['English'],True,False,False,0,Single-player,Steam Achievements,Stats,Steam Leaderboards,W
-384,('50000';'100000'),14.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,Steam Leaderboards,W
-385,('20000';'50000'),3.99,['English';'Russian'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,W
-386,('200000';'500000'),0.99,['Portuguese - Brazil'],True,False,False,0,Single-player,Multi-player,PvP,LAN PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Trading Cards,W
-387,('0';'20000'),0.0,['Simplified Chinese'],True,False,False,0,Multi-player,PvP,Online PvP,W
-388,('0';'20000'),19.99,['English';'French';'Italian';'German';'Spanish - Spain';'Russian'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,W
-389,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,Partial Controller Support,W
+380,('50000';'100000'),19.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Traditional Chinese'],True,True,False,0,Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support;Steam Cloud,WM
+381,('0';'20000'),2.99,['English';'Russian'],True,False,False,0,Single-player;Steam Achievements,W
+382,('0';'20000'),2.99,['English';'Spanish - Spain';'Spanish - Latin America'],True,True,False,0,Single-player;Steam Achievements;Captions available,WM
+383,('20000';'50000'),0.0,['English'],True,False,False,0,Single-player;Steam Achievements;Stats;Steam Leaderboards,W
+384,('50000';'100000'),14.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Cloud;Steam Leaderboards,W
+385,('20000';'50000'),3.99,['English';'Russian'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support,W
+386,('200000';'500000'),0.99,['Portuguese - Brazil'],True,False,False,0,Single-player;Multi-player;PvP;LAN PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Trading Cards,W
+387,('0';'20000'),0.0,['Simplified Chinese'],True,False,False,0,Multi-player;PvP;Online PvP,W
+388,('0';'20000'),19.99,['English';'French';'Italian';'German';'Spanish - Spain';'Russian'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards;Partial Controller Support,W
+389,('0';'20000'),0.99,['English'],True,False,False,0,Single-player;Partial Controller Support,W
 390,('0';'20000'),1.99,['English'],True,False,False,0,Single-player,W
-391,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-392,('0';'20000'),2.99,['English';'Russian'],True,False,False,0,Single-player,Steam Achievements,Partial Controller Support,W
-393,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player,Steam Trading Cards,Partial Controller Support,W
-394,('0';'20000'),29.99,['English'],True,True,False,0,Single-player,Includes level editor,WM
-395,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-397,('0';'20000'),14.99,['English'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,WLM
-398,('0';'20000'),6.99,['English';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,Steam Leaderboards,W
-399,('0';'20000'),1.99,['English';'Portuguese - Brazil';'Simplified Chinese'],True,False,False,0,Single-player,Steam Achievements,W
-400,('0';'20000'),2.99,['English';'French';'Italian';'German';'Spanish - Spain';'Bulgarian';'Simplified Chinese';'Traditional Chinese';'Korean';'Danish';'Spanish - Latin America';'Finnish';'Greek';'Dutch';'Hungarian';'Japanese';'Norwegian';'Polish';'Portuguese';'Portuguese - Brazil';'Romanian';'Russian';'Swedish';'Thai';'Czech';'Turkish';'Ukrainian';'Vietnamese';'Arabic'],True,False,False,0,Single-player,Steam Achievements,Partial Controller Support,W
-401,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player,Multi-player,W
-402,('1000000';'2000000'),19.99,['English';'Japanese'],True,False,False,17,Single-player,Multi-player,Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Remote Play on Phone,Remote Play on Tablet,Remote Play on TV,Remote Play Together,W
-403,('20000';'50000'),11.99,['English'],True,False,True,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Includes level editor,Remote Play Together,WL
-404,('0';'20000'),24.99,['English';'French';'Italian';'German';'Spanish - Spain';'Portuguese - Brazil'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Remote Play on TV,W
-405,('0';'20000'),15.0,['English'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,LAN PvP,Co-op,Online Co-op,LAN Co-op,W
-406,('0';'20000'),9.99,['English'],True,True,True,0,Single-player,Steam Achievements,Full controller support,Captions available,WLM
-407,('200000';'500000'),0.0,['English'],True,False,False,0,Multi-player,Co-op,Partial Controller Support,W
-408,('0';'0'),0.0,['English'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,LAN PvP,Shared/Split Screen PvP,Shared/Split Screen,Remote Play Together,W
-409,('20000';'50000'),0.0,['French'],True,False,False,0,Single-player,Multi-player,Shared/Split Screen,Partial Controller Support,Remote Play Together,W
-410,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,Stats,Steam Leaderboards,W
-411,('20000';'50000'),5.99,['English';'Russian';'Spanish - Spain';'Japanese';'Simplified Chinese'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,WLM
-412,('0';'20000'),4.99,['English';'Italian';'Spanish - Spain';'Russian';'French';'Portuguese - Brazil';'German';'Dutch';'Swedish'],True,True,True,0,Single-player,Multi-player,Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Remote Play on TV,Remote Play Together,WLM
+391,('0';'20000'),0.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+392,('0';'20000'),2.99,['English';'Russian'],True,False,False,0,Single-player;Steam Achievements;Partial Controller Support,W
+393,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player;Steam Trading Cards;Partial Controller Support,W
+394,('0';'20000'),29.99,['English'],True,True,False,0,Single-player;Includes level editor,WM
+395,('0';'20000'),0.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+397,('0';'20000'),14.99,['English'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards,WLM
+398,('0';'20000'),6.99,['English';'Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud;Steam Leaderboards,W
+399,('0';'20000'),1.99,['English';'Portuguese - Brazil';'Simplified Chinese'],True,False,False,0,Single-player;Steam Achievements,W
+400,('0';'20000'),2.99,['English';'French';'Italian';'German';'Spanish - Spain';'Bulgarian';'Simplified Chinese';'Traditional Chinese';'Korean';'Danish';'Spanish - Latin America';'Finnish';'Greek';'Dutch';'Hungarian';'Japanese';'Norwegian';'Polish';'Portuguese';'Portuguese - Brazil';'Romanian';'Russian';'Swedish';'Thai';'Czech';'Turkish';'Ukrainian';'Vietnamese';'Arabic'],True,False,False,0,Single-player;Steam Achievements;Partial Controller Support,W
+401,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player;Multi-player,W
+402,('1000000';'2000000'),19.99,['English';'Japanese'],True,False,False,17,Single-player;Multi-player;Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Remote Play on Phone;Remote Play on Tablet;Remote Play on TV;Remote Play Together,W
+403,('20000';'50000'),11.99,['English'],True,False,True,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Includes level editor;Remote Play Together,WL
+404,('0';'20000'),24.99,['English';'French';'Italian';'German';'Spanish - Spain';'Portuguese - Brazil'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Remote Play on TV,W
+405,('0';'20000'),15.0,['English'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;LAN PvP;Co-op;Online Co-op;LAN Co-op,W
+406,('0';'20000'),9.99,['English'],True,True,True,0,Single-player;Steam Achievements;Full controller support;Captions available,WLM
+407,('200000';'500000'),0.0,['English'],True,False,False,0,Multi-player;Co-op;Partial Controller Support,W
+408,('0';'0'),0.0,['English'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;LAN PvP;Shared/Split Screen PvP;Shared/Split Screen;Remote Play Together,W
+409,('20000';'50000'),0.0,['French'],True,False,False,0,Single-player;Multi-player;Shared/Split Screen;Partial Controller Support;Remote Play Together,W
+410,('0';'20000'),0.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Cloud;Stats;Steam Leaderboards,W
+411,('20000';'50000'),5.99,['English';'Russian';'Spanish - Spain';'Japanese';'Simplified Chinese'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards,WLM
+412,('0';'20000'),4.99,['English';'Italian';'Spanish - Spain';'Russian';'French';'Portuguese - Brazil';'German';'Dutch';'Swedish'],True,True,True,0,Single-player;Multi-player;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud;Remote Play on TV;Remote Play Together,WLM
 413,('0';'20000'),6.99,['English';'Japanese'],True,False,False,0,Single-player,W
-414,('20000';'50000'),4.99,['English'],True,True,True,0,Single-player,Multi-player,Shared/Split Screen,Partial Controller Support,Remote Play Together,WLM
-415,('0';'20000'),1.79,['English';'French';'German';'Spanish - Spain';'Russian'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,WLM
-416,('200000';'500000'),19.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Portuguese';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Traditional Chinese';'Turkish';'Dutch';'Polish'],True,False,True,0,Single-player,Multi-player,Co-op,Online Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Remote Play on TV,Remote Play Together,WL
+414,('20000';'50000'),4.99,['English'],True,True,True,0,Single-player;Multi-player;Shared/Split Screen;Partial Controller Support;Remote Play Together,WLM
+415,('0';'20000'),1.79,['English';'French';'German';'Spanish - Spain';'Russian'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards,WLM
+416,('200000';'500000'),19.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Portuguese';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Traditional Chinese';'Turkish';'Dutch';'Polish'],True,False,True,0,Single-player;Multi-player;Co-op;Online Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Remote Play on TV;Remote Play Together,WL
 417,('0';'0'),0.0,['English'],True,False,False,0,Single-player,W
 418,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,W
-419,('0';'20000'),3.99,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Bulgarian';'Portuguese - Brazil';'Hungarian';'Vietnamese';'Greek';'Danish';'Spanish - Latin America';'Traditional Chinese';'Simplified Chinese';'Korean';'Dutch';'Norwegian';'Polish';'Portuguese';'Romanian';'Russian';'Thai';'Turkish';'Ukrainian';'Finnish';'Czech';'Swedish';'Japanese'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,W
-420,('0';'20000'),2.99,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,W
-421,('0';'20000'),4.99,['English';'Russian'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,W
-422,('0';'20000'),1.99,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Leaderboards,W
-423,('50000';'100000'),2.99,['English';'French';'Spanish - Spain';'Italian';'German';'Portuguese - Brazil'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,WLM
-424,('0';'20000'),39.99,['English'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Achievements,Steam Cloud,W
+419,('0';'20000'),3.99,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Bulgarian';'Portuguese - Brazil';'Hungarian';'Vietnamese';'Greek';'Danish';'Spanish - Latin America';'Traditional Chinese';'Simplified Chinese';'Korean';'Dutch';'Norwegian';'Polish';'Portuguese';'Romanian';'Russian';'Thai';'Turkish';'Ukrainian';'Finnish';'Czech';'Swedish';'Japanese'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud,W
+420,('0';'20000'),2.99,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support,W
+421,('0';'20000'),4.99,['English';'Russian'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Cloud,W
+422,('0';'20000'),1.99,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Leaderboards,W
+423,('50000';'100000'),2.99,['English';'French';'Spanish - Spain';'Italian';'German';'Portuguese - Brazil'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards,WLM
+424,('0';'20000'),39.99,['English'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Steam Cloud,W
 425,('0';'20000'),14.99,['English';'French';'German';'Spanish - Spain';'Japanese';'Korean';'Russian';'Simplified Chinese'],True,False,False,0,Single-player,W
-426,('2000000';'5000000'),0.0,['English';'German';'Russian';'Simplified Chinese';'French';'Spanish - Spain';'Polish';'Portuguese - Brazil';'Dutch';'Korean';'Japanese';'Traditional Chinese';'Turkish'],True,False,False,0,Single-player,Multi-player,MMO,PvP,Online PvP,Steam Achievements,In-App Purchases,Stats,W
-427,('0';'20000'),0.99,['English'],True,True,True,0,Single-player,Steam Achievements,Steam Cloud,WLM
-428,('0';'20000'),12.99,['English'],True,False,True,0,Single-player,Steam Achievements,WL
-429,('0';'20000'),7.99,['English';'French'],True,False,False,0,Single-player,Steam Achievements,Full controller support,W
-430,('0';'0'),0.0,['English'],True,False,False,0,Single-player,Full controller support,In-App Purchases,W
-431,('0';'20000'),3.99,['English';'Japanese';'French';'Spanish - Spain';'Simplified Chinese';'Traditional Chinese';'Korean';'Portuguese - Brazil'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,W
+426,('2000000';'5000000'),0.0,['English';'German';'Russian';'Simplified Chinese';'French';'Spanish - Spain';'Polish';'Portuguese - Brazil';'Dutch';'Korean';'Japanese';'Traditional Chinese';'Turkish'],True,False,False,0,Single-player;Multi-player;MMO;PvP;Online PvP;Steam Achievements;In-App Purchases;Stats,W
+427,('0';'20000'),0.99,['English'],True,True,True,0,Single-player;Steam Achievements;Steam Cloud,WLM
+428,('0';'20000'),12.99,['English'],True,False,True,0,Single-player;Steam Achievements,WL
+429,('0';'20000'),7.99,['English';'French'],True,False,False,0,Single-player;Steam Achievements;Full controller support,W
+430,('0';'0'),0.0,['English'],True,False,False,0,Single-player;Full controller support;In-App Purchases,W
+431,('0';'20000'),3.99,['English';'Japanese';'French';'Spanish - Spain';'Simplified Chinese';'Traditional Chinese';'Korean';'Portuguese - Brazil'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Cloud,W
 432,('0';'20000'),12.99,['English';'French';'Italian';'German';'Spanish - Spain';'Russian';'Turkish';'Japanese';'Thai';'Simplified Chinese';'Traditional Chinese';'Portuguese - Brazil';'Vietnamese';'Arabic';'Korean';'Spanish - Latin America';'Portuguese'],True,True,False,0,Single-player,WM
-433,('0';'20000'),7.99,['English';'Simplified Chinese';'Japanese';'Traditional Chinese';'Korean';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Ukrainian';'Dutch';'Greek';'Swedish';'Spanish - Latin America';'Thai';'Czech';'Danish';'Turkish';'Norwegian';'Hungarian';'Finnish';'Bulgarian';'Vietnamese';'Portuguese';'Portuguese - Brazil';'Polish';'Romanian';'Russian'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Co-op,Online Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Partial Controller Support,Remote Play on TV,Remote Play Together,W
-434,('0';'20000'),0.0,['English'],True,False,True,0,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Achievements,Partial Controller Support,Remote Play Together,WL
+433,('0';'20000'),7.99,['English';'Simplified Chinese';'Japanese';'Traditional Chinese';'Korean';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Ukrainian';'Dutch';'Greek';'Swedish';'Spanish - Latin America';'Thai';'Czech';'Danish';'Turkish';'Norwegian';'Hungarian';'Finnish';'Bulgarian';'Vietnamese';'Portuguese';'Portuguese - Brazil';'Polish';'Romanian';'Russian'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Online Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Partial Controller Support;Remote Play on TV;Remote Play Together,W
+434,('0';'20000'),0.0,['English'],True,False,True,0,Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Partial Controller Support;Remote Play Together,WL
 435,('0';'20000'),4.99,['English'],True,False,False,0,Single-player,W
-436,('100000';'200000'),1.49,['English';'Russian';'German';'Simplified Chinese';'French';'Italian';'Spanish - Spain';'Traditional Chinese';'Japanese';'Portuguese';'Korean'],True,False,False,0,Multi-player,MMO,PvP,Online PvP,Co-op,Online Co-op,Steam Achievements,Steam Trading Cards,Steam Cloud,Stats,W
-437,('0';'20000'),4.99,['English'],True,False,False,0,Single-player,Steam Achievements,W
-438,('0';'0'),0.0,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Stats,Steam Leaderboards,W
+436,('100000';'200000'),1.49,['English';'Russian';'German';'Simplified Chinese';'French';'Italian';'Spanish - Spain';'Traditional Chinese';'Japanese';'Portuguese';'Korean'],True,False,False,0,Multi-player;MMO;PvP;Online PvP;Co-op;Online Co-op;Steam Achievements;Steam Trading Cards;Steam Cloud;Stats,W
+437,('0';'20000'),4.99,['English'],True,False,False,0,Single-player;Steam Achievements,W
+438,('0';'0'),0.0,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Stats;Steam Leaderboards,W
 439,('200000';'500000'),9.99,['English';'French';'German';'Italian';'Spanish - Spain';'Polish';'Russian'],True,False,False,0,Single-player,W
-440,('0';'20000'),8.99,['English'],True,False,False,0,Multi-player,PvP,Online PvP,Co-op,Online Co-op,Steam Achievements,W
-441,('200000';'500000'),1.13,['English'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,W
+440,('0';'20000'),8.99,['English'],True,False,False,0,Multi-player;PvP;Online PvP;Co-op;Online Co-op;Steam Achievements,W
+441,('200000';'500000'),1.13,['English'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards,W
 442,('0';'20000'),19.99,['English'],True,False,False,0,Single-player,W
 443,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,W
-444,('0';'20000'),3.99,['English';'French';'German';'Bulgarian';'Italian';'Spanish - Spain';'Japanese';'Polish';'Russian';'Simplified Chinese';'Traditional Chinese'],True,True,False,0,Single-player,Multi-player,PvP,Online PvP,Shared/Split Screen PvP,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,WM
+444,('0';'20000'),3.99,['English';'French';'German';'Bulgarian';'Italian';'Spanish - Spain';'Japanese';'Polish';'Russian';'Simplified Chinese';'Traditional Chinese'],True,True,False,0,Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements,WM
 445,('0';'20000'),0.49,['English';'Portuguese - Brazil'],True,False,False,0,Single-player,W
-446,('0';'20000'),7.99,['English'],True,False,False,0,Single-player,Steam Achievements,Partial Controller Support,W
-447,('0';'20000'),1.99,['English';'Portuguese - Brazil'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Leaderboards,Remote Play Together,W
-448,('0';'20000'),0.99,['English';'Russian';'Simplified Chinese';'Spanish - Latin America';'Traditional Chinese'],True,False,False,0,Single-player,Full controller support,Remote Play on TV,Remote Play Together,W
-449,('0';'20000'),5.99,['English';'French';'Japanese';'Spanish - Spain'],True,False,False,0,Single-player,Partial Controller Support,W
+446,('0';'20000'),7.99,['English'],True,False,False,0,Single-player;Steam Achievements;Partial Controller Support,W
+447,('0';'20000'),1.99,['English';'Portuguese - Brazil'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Steam Achievements;Full controller support;Steam Leaderboards;Remote Play Together,W
+448,('0';'20000'),0.99,['English';'Russian';'Simplified Chinese';'Spanish - Latin America';'Traditional Chinese'],True,False,False,0,Single-player;Full controller support;Remote Play on TV;Remote Play Together,W
+449,('0';'20000'),5.99,['English';'French';'Japanese';'Spanish - Spain'],True,False,False,0,Single-player;Partial Controller Support,W
 451,('0';'0'),0.99,['English'],True,True,True,0,Single-player,WLM
-452,('0';'20000'),7.99,['English';'German';'French';'Italian';'Spanish - Spain'],True,True,False,0,Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,WM
-453,('0';'20000'),15.99,['Japanese';'English'],True,False,False,0,Single-player,Full controller support,Steam Cloud,W
-454,('20000';'50000'),0.0,['English'],True,True,True,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Partial Controller Support,Remote Play Together,WLM
+452,('0';'20000'),7.99,['English';'German';'French';'Italian';'Spanish - Spain'],True,True,False,0,Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud,WM
+453,('0';'20000'),15.99,['Japanese';'English'],True,False,False,0,Single-player;Full controller support;Steam Cloud,W
+454,('20000';'50000'),0.0,['English'],True,True,True,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Partial Controller Support;Remote Play Together,WLM
 455,('0';'20000'),6.99,['English'],True,True,False,0,Single-player,WM
-456,('0';'20000'),0.99,['English';'French';'German';'Spanish - Spain';'Simplified Chinese';'Traditional Chinese';'Korean';'Spanish - Latin America';'Dutch';'Japanese';'Portuguese - Brazil';'Russian';'Italian';'Bulgarian';'Danish';'Finnish';'Greek';'Hungarian';'Norwegian';'Polish';'Romanian';'Swedish';'Thai';'Turkish';'Ukrainian';'Vietnamese'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,W
-457,('0';'20000'),1.99,['English';'Russian'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,W
-458,('0';'20000'),29.99,['English'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Shared/Split Screen PvP,Shared/Split Screen,Remote Play Together,W
+456,('0';'20000'),0.99,['English';'French';'German';'Spanish - Spain';'Simplified Chinese';'Traditional Chinese';'Korean';'Spanish - Latin America';'Dutch';'Japanese';'Portuguese - Brazil';'Russian';'Italian';'Bulgarian';'Danish';'Finnish';'Greek';'Hungarian';'Norwegian';'Polish';'Romanian';'Swedish';'Thai';'Turkish';'Ukrainian';'Vietnamese'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud,W
+457,('0';'20000'),1.99,['English';'Russian'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud,W
+458,('0';'20000'),29.99,['English'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Shared/Split Screen;Remote Play Together,W
 459,('0';'20000'),1.64,['English'],True,True,False,0,Single-player,WM
-460,('0';'20000'),14.99,['English'],True,True,True,0,Steam Achievements,Steam Workshop,Steam Cloud,WLM
+460,('0';'20000'),14.99,['English'],True,True,True,0,Steam Achievements;Steam Workshop;Steam Cloud,WLM
 461,('0';'20000'),6.99,['English'],True,False,False,0,Single-player,W
 462,('0';'20000'),3.99,['English'],True,False,False,0,Single-player,W
-463,('0';'20000'),0.0,['English'],True,False,False,0,Multi-player,PvP,Online PvP,W
-464,('0';'20000'),11.99,['English';'French';'German';'Japanese';'Korean';'Spanish - Latin America'],True,False,False,0,Single-player,Steam Achievements,W
+463,('0';'20000'),0.0,['English'],True,False,False,0,Multi-player;PvP;Online PvP,W
+464,('0';'20000'),11.99,['English';'French';'German';'Japanese';'Korean';'Spanish - Latin America'],True,False,False,0,Single-player;Steam Achievements,W
 465,('0';'20000'),5.99,['English';'Simplified Chinese'],True,False,False,0,Single-player,W
-466,('0';'20000'),0.99,['English'],True,False,True,0,Single-player,Steam Achievements,Steam Cloud,WL
-467,('0';'20000'),19.99,['English';'German';'Norwegian';'Russian';'Simplified Chinese';'French';'Turkish';'Spanish - Spain'],True,True,True,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,WLM
-468,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,Steam Achievements,W
-469,('0';'20000'),0.99,['English';'Polish'],True,False,False,0,Single-player,Multi-player,PvP,Online PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Achievements,Partial Controller Support,Steam Cloud,Remote Play Together,W
-470,('200000';'500000'),24.99,['English';'French';'Italian';'German';'Spanish - Spain';'Polish';'Russian';'Simplified Chinese'],True,True,False,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud,WM
-471,('0';'20000'),2.99,['Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player,Steam Achievements,Steam Workshop,Steam Workshop,W
-472,('100000';'200000'),0.5,['English'],True,False,False,0,Single-player,Steam Trading Cards,W
-473,('0';'20000'),12.99,['English';'French';'Italian';'German';'Spanish - Spain';'Russian';'Portuguese - Brazil';'Dutch';'Swedish'],True,True,True,0,Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,WLM
+466,('0';'20000'),0.99,['English'],True,False,True,0,Single-player;Steam Achievements;Steam Cloud,WL
+467,('0';'20000'),19.99,['English';'German';'Norwegian';'Russian';'Simplified Chinese';'French';'Turkish';'Spanish - Spain'],True,True,True,0,Single-player;Steam Achievements;Full controller support;Steam Cloud,WLM
+468,('0';'20000'),0.0,['English'],True,False,False,0,Single-player;Steam Achievements,W
+469,('0';'20000'),0.99,['English';'Polish'],True,False,False,0,Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Partial Controller Support;Steam Cloud;Remote Play Together,W
+470,('200000';'500000'),24.99,['English';'French';'Italian';'German';'Spanish - Spain';'Polish';'Russian';'Simplified Chinese'],True,True,False,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud,WM
+471,('0';'20000'),2.99,['Simplified Chinese';'Traditional Chinese'],True,False,False,0,Single-player;Steam Achievements;Steam Workshop;Steam Workshop,W
+472,('100000';'200000'),0.5,['English'],True,False,False,0,Single-player;Steam Trading Cards,W
+473,('0';'20000'),12.99,['English';'French';'Italian';'German';'Spanish - Spain';'Russian';'Portuguese - Brazil';'Dutch';'Swedish'],True,True,True,0,Single-player;Steam Achievements;Full controller support;Steam Trading Cards;Steam Cloud,WLM
 474,('0';'20000'),19.99,['English'],True,False,False,0,Single-player,W
-475,('1000000';'2000000'),39.99,['English';'French';'Italian';'German';'Spanish - Spain';'Czech';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Spanish - Latin America';'Traditional Chinese'],True,False,False,17,Single-player,Steam Achievements,Full controller support,Steam Cloud,Remote Play on Tablet,W
+475,('1000000';'2000000'),39.99,['English';'French';'Italian';'German';'Spanish - Spain';'Czech';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Spanish - Latin America';'Traditional Chinese'],True,False,False,17,Single-player;Steam Achievements;Full controller support;Steam Cloud;Remote Play on Tablet,W
 476,('0';'20000'),14.99,['English'],True,False,False,0,Single-player,W
-477,('0';'20000'),7.99,['English';'Turkish'],True,True,True,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Steam Achievements,Full controller support,Stats,Remote Play Together,WLM
-479,('50000';'100000'),2.79,['English';'Simplified Chinese'],True,False,False,0,Steam Workshop,Steam Cloud,Includes level editor,W
+477,('0';'20000'),7.99,['English';'Turkish'],True,True,True,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Steam Achievements;Full controller support;Stats;Remote Play Together,WLM
+479,('50000';'100000'),2.79,['English';'Simplified Chinese'],True,False,False,0,Steam Workshop;Steam Cloud;Includes level editor,W
 480,('0';'20000'),5.99,['English'],True,False,False,0,Single-player,W
-481,('200000';'500000'),14.99,['English'],True,True,True,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud,Includes level editor,Remote Play on TV,Remote Play Together,WLM
+481,('200000';'500000'),14.99,['English'],True,True,True,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Steam Achievements;Full controller support;Steam Trading Cards;Steam Workshop;Steam Cloud;Includes level editor;Remote Play on TV;Remote Play Together,WLM
 482,('0';'20000'),0.79,['English';'Japanese';'Korean'],True,False,False,0,Single-player,W
-483,('0';'20000'),7.49,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Polish';'Russian';'Simplified Chinese'],True,False,False,0,Single-player,Multi-player,Co-op,Online Co-op,LAN Co-op,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Steam Cloud,Steam Leaderboards,W
-484,('0';'20000'),4.99,['English'],True,True,True,0,Multi-player,PvP,Shared/Split Screen PvP,Shared/Split Screen,Partial Controller Support,Remote Play Together,WLM
-485,('0';'20000'),9.99,['English'],True,True,True,0,Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,WLM
-486,('100000';'200000'),19.99,['English';'Japanese';'Russian';'Simplified Chinese';'Portuguese - Brazil'],True,True,True,0,Single-player,Steam Achievements,Steam Workshop,Steam Cloud,WLM
+483,('0';'20000'),7.49,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Polish';'Russian';'Simplified Chinese'],True,False,False,0,Single-player;Multi-player;Co-op;Online Co-op;LAN Co-op;Cross-Platform Multiplayer;Steam Achievements;Steam Trading Cards;Steam Cloud;Steam Leaderboards,W
+484,('0';'20000'),4.99,['English'],True,True,True,0,Multi-player;PvP;Shared/Split Screen PvP;Shared/Split Screen;Partial Controller Support;Remote Play Together,WLM
+485,('0';'20000'),9.99,['English'],True,True,True,0,Single-player;Steam Achievements;Steam Trading Cards;Steam Cloud,WLM
+486,('100000';'200000'),19.99,['English';'Japanese';'Russian';'Simplified Chinese';'Portuguese - Brazil'],True,True,True,0,Single-player;Steam Achievements;Steam Workshop;Steam Cloud,WLM
 487,('0';'20000'),6.99,['English'],True,False,False,0,Single-player,W
-488,('0';'20000'),5.99,['English'],True,False,False,0,Single-player,Partial Controller Support,W
-489,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,W
-490,('50000';'100000'),3.99,['English'],True,True,False,0,Single-player,Steam Achievements,Steam Cloud,WM
+488,('0';'20000'),5.99,['English'],True,False,False,0,Single-player;Partial Controller Support,W
+489,('20000';'50000'),4.99,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud,W
+490,('50000';'100000'),3.99,['English'],True,True,False,0,Single-player;Steam Achievements;Steam Cloud,WM
 491,('0';'0'),0.0,['English'],True,False,False,0,Single-player,W
-492,('0';'20000'),14.99,['English';'Japanese'],True,True,True,0,Single-player,Multi-player,Co-op,Online Co-op,Shared/Split Screen Co-op,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,Steam Workshop,Steam Cloud,Stats,Steam Leaderboards,Includes level editor,Remote Play Together,WLM
+492,('0';'20000'),14.99,['English';'Japanese'],True,True,True,0,Single-player;Multi-player;Co-op;Online Co-op;Shared/Split Screen Co-op;Shared/Split Screen;Cross-Platform Multiplayer;Steam Achievements;Full controller support;Steam Trading Cards;Captions available;Steam Workshop;Steam Cloud;Stats;Steam Leaderboards;Includes level editor;Remote Play Together,WLM
 493,('0';'20000'),7.99,['English'],True,False,False,0,Single-player,W
-494,('0';'20000'),4.99,['English'],True,False,False,0,Single-player,Multi-player,PvP,Shared/Split Screen PvP,Co-op,Remote Play Together,W
+494,('0';'20000'),4.99,['English'],True,False,False,0,Single-player;Multi-player;PvP;Shared/Split Screen PvP;Co-op;Remote Play Together,W
 495,('0';'20000'),0.99,['English'],True,False,False,0,Single-player,W
-496,('20000';'50000'),0.0,['English'],True,False,False,0,Single-player,Full controller support,W
+496,('20000';'50000'),0.0,['English'],True,False,False,0,Single-player;Full controller support,W
 497,('0';'20000'),11.99,['English';'French';'Italian';'German';'Spanish - Spain';'Arabic';'Bulgarian';'Czech';'Danish';'Dutch';'Finnish';'Greek';'Hungarian';'Japanese';'Korean';'Norwegian';'Polish';'Portuguese';'Portuguese - Brazil';'Romanian';'Russian';'Simplified Chinese';'Spanish - Latin America';'Swedish';'Thai';'Traditional Chinese';'Turkish';'Ukrainian';'Vietnamese'],True,False,False,0,Single-player,W
-498,('200000';'500000'),13.99,['English';'Russian';'German';'Simplified Chinese'],True,False,False,0,Single-player,Steam Achievements,Steam Trading Cards,W
-499,('20000';'50000'),0.0,['English'],True,True,False,0,Single-player,Multi-player,PvP,Online PvP,Cross-Platform Multiplayer,Steam Trading Cards,In-App Purchases,WM
-500,('0';'20000'),2.59,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,W
+498,('200000';'500000'),13.99,['English';'Russian';'German';'Simplified Chinese'],True,False,False,0,Single-player;Steam Achievements;Steam Trading Cards,W
+499,('20000';'50000'),0.0,['English'],True,True,False,0,Single-player;Multi-player;PvP;Online PvP;Cross-Platform Multiplayer;Steam Trading Cards;In-App Purchases,WM
+500,('0';'20000'),2.59,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud,W
 501,('0';'20000'),0.0,['English'],True,False,False,0,Single-player,W
-502,('0';'20000'),0.0,['English'],True,False,False,18,Single-player,In-App Purchases,Partial Controller Support,W
+502,('0';'20000'),0.0,['English'],True,False,False,18,Single-player;In-App Purchases;Partial Controller Support,W
 503,('0';'20000'),11.99,['English'],True,False,False,0,Single-player,W
-504,('20000';'50000'),19.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Simplified Chinese';'Spanish - Latin America'],True,False,False,0,Single-player,Steam Achievements,Full controller support,Steam Cloud,Remote Play on TV,W
-505,('0';'20000'),9.99,['English';'German'],True,False,False,0,Single-player,Steam Achievements,Includes level editor,W
+504,('20000';'50000'),19.99,['English';'French';'Italian';'German';'Spanish - Spain';'Japanese';'Korean';'Simplified Chinese';'Spanish - Latin America'],True,False,False,0,Single-player;Steam Achievements;Full controller support;Steam Cloud;Remote Play on TV,W
+505,('0';'20000'),9.99,['English';'German'],True,False,False,0,Single-player;Steam Achievements;Includes level editor,W
 506,('0';'20000'),5.99,['English';'Spanish - Spain';'Spanish - Latin America';'Portuguese';'Portuguese - Brazil';'Russian'],True,False,False,17,Single-player,W
-507,('0';'20000'),12.99,['English';'French';'Italian';'German';'Spanish - Spain';'Dutch';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Swedish';'Thai';'Traditional Chinese';'Vietnamese'],True,True,False,0,Single-player,Steam Achievements,WM
+507,('0';'20000'),12.99,['English';'French';'Italian';'German';'Spanish - Spain';'Dutch';'Japanese';'Korean';'Polish';'Portuguese - Brazil';'Russian';'Simplified Chinese';'Swedish';'Thai';'Traditional Chinese';'Vietnamese'],True,True,False,0,Single-player;Steam Achievements,WM
 508,('0';'20000'),2.99,['English'],True,False,False,0,Single-player,W
-509,('0';'20000'),9.99,['English';'German';'Spanish - Spain';'Russian';'Simplified Chinese'],True,True,True,0,Single-player,Multi-player,PvP,Online PvP,Shared/Split Screen PvP,Co-op,Online Co-op,Shared/Split Screen Co-op,Cross-Platform Multiplayer,Partial Controller Support,Remote Play Together,WLM
-510,('0';'20000'),0.99,['English';'Italian';'German';'Hungarian';'Japanese';'Russian';'Simplified Chinese';'Spanish - Spain'],True,True,False,0,Single-player,Steam Achievements,Partial Controller Support,WM
-511,('0';'20000'),4.99,['English'],True,False,False,0,Single-player,Steam Achievements,Steam Cloud,W
+509,('0';'20000'),9.99,['English';'German';'Spanish - Spain';'Russian';'Simplified Chinese'],True,True,True,0,Single-player;Multi-player;PvP;Online PvP;Shared/Split Screen PvP;Co-op;Online Co-op;Shared/Split Screen Co-op;Cross-Platform Multiplayer;Partial Controller Support;Remote Play Together,WLM
+510,('0';'20000'),0.99,['English';'Italian';'German';'Hungarian';'Japanese';'Russian';'Simplified Chinese';'Spanish - Spain'],True,True,False,0,Single-player;Steam Achievements;Partial Controller Support,WM
+511,('0';'20000'),4.99,['English'],True,False,False,0,Single-player;Steam Achievements;Steam Cloud,W
 512,('50000';'100000'),9.99,['English'],True,False,False,0,Single-player,W
-513,('50000';'100000'),14.99,['English';'French';'Italian';'German';'Spanish - Spain'],True,True,False,0,Single-player,Steam Achievements,Steam Trading Cards,WM
+513,('50000';'100000'),14.99,['English';'French';'Italian';'German';'Spanish - Spain'],True,True,False,0,Single-player;Steam Achievements;Steam Trading Cards,WM
 514,('0';'20000'),9.99,['English'],True,False,False,0,Single-player,W
