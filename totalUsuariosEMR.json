@@ -1,22 +1,7 @@
 [
-  {
-    "Edad Mínima Requerida": 0,
-    "Total Usuarios": 35465000
-  },
-  {
-    "Edad Mínima Requerida": 10,
-    "Total Usuarios": 10000
-  },
-  {
-    "Edad Mínima Requerida": 13,
-    "Total Usuarios": 75000
-  },
-  {
-    "Edad Mínima Requerida": 17,
-    "Total Usuarios": 8760000
-  },
-  {
-    "Edad Mínima Requerida": 18,
-    "Total Usuarios": 30000
-  }
+  { "Edad Mínima Requerida": 0, "Total Usuarios": 35465000 },
+  { "Edad Mínima Requerida": 10, "Total Usuarios": 10000 },
+  { "Edad Mínima Requerida": 13, "Total Usuarios": 75000 },
+  { "Edad Mínima Requerida": 17, "Total Usuarios": 8760000 },
+  { "Edad Mínima Requerida": 18, "Total Usuarios": 30000 }
 ]
