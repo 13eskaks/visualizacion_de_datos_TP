@@ -1,22 +1,7 @@
 [
-  {
-    "Edad Mínima Requerida": 0,
-    "Total Juegos": 488
-  },
-  {
-    "Edad Mínima Requerida": 10,
-    "Total Juegos": 1
-  },
-  {
-    "Edad Mínima Requerida": 13,
-    "Total Juegos": 1
-  },
-  {
-    "Edad Mínima Requerida": 17,
-    "Total Juegos": 6
-  },
-  {
-    "Edad Mínima Requerida": 18,
-    "Total Juegos": 3
-  }
+  { "Edad Mínima Requerida": 0, "Total Juegos": 488 },
+  { "Edad Mínima Requerida": 10, "Total Juegos": 1 },
+  { "Edad Mínima Requerida": 13, "Total Juegos": 1 },
+  { "Edad Mínima Requerida": 17, "Total Juegos": 6 },
+  { "Edad Mínima Requerida": 18, "Total Juegos": 3 }
 ]
